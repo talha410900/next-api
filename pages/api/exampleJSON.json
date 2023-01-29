@@ -1,0 +1,2598 @@
+[
+    {
+        "importDatasetSrcId": "100165327",
+        "category": {
+            "id": "UraTDxxeh6URxEPR0SXc",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Architecture_List.png?alt=media&token=e106cf06-7bd7-4509-ad75-b8caeb53e2a2",
+            "names": {
+                "en": "Architecture",
+                "de": "Architektur"
+            },
+            "order": 8,
+            "name": "Awesome Architecture",
+            "key": "UraTDxxeh6URxEPR0SXc",
+            "descriptions": {
+                "de": "Von Statuen bis zu riesigen Wolkenkratzern, einfach alles zu skurrilen & ästhetischen Bauten.",
+                "en": "From statues to huge skyscrapers, everything about whimsical & aesthetic buildings."
+            }
+        },
+        "name": "Der kleine Bronze-Mann",
+        "geohash": "u1pj4j63v0",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j6",
+            "8": "u1pj4j63",
+            "9": "u1pj4j63v"
+        },
+        "images": [
+            {
+                "source": "Christoph Mischke",
+                "status": "uploaded",
+                "longitude": 9.9349175,
+                "value": "Lichtenberg-Denkmal Markt",
+                "selected": true,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_2e5d36a5-4558-48b2-b9a1-0f66dde0a94f.jpg?alt=media&token=fb546b1d-4b39-4fda-b461-318ffcb141c7",
+                "rel": "default",
+                "focusX": 0.19,
+                "prio": 1,
+                "height": 2357,
+                "license": "CC-BY-SA",
+                "width": 3543,
+                "srcUrl": "https://dam.destination.one/1137289/a47a9e575b55358246ff42b059a62f3c9aef0201ca1bcf9bb792c3e14269871e/lichtenberg-denkmal-markt.jpg",
+                "alt": "Lichtenberg-Denkmal Markt",
+                "focusY": 0.24,
+                "type": "image/jpeg",
+                "latitude": 51.5328086,
+                "uploadUrl": "https://dam.destination.one/1137289/a47a9e575b55358246ff42b059a62f3c9aef0201ca1bcf9bb792c3e14269871e/lichtenberg-denkmal-markt.jpg"
+            },
+            {
+                "height": 1063,
+                "source": "Göttingen Tourismus & Marketing / Mischke",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_c5f4aa6a-064c-77cc-e0bb-cb15c8184bb2.jpg?alt=media&token=a039c2a8-6da4-4b1b-9b77-e5178690e453",
+                "width": 1594
+            }
+        ],
+        "description": "An der Nordseite des Alten Rathauses steht er seit 1992 mitten in der City und somit im prallen Leben: Georg Christoph Lichtenberg. Die kleine Bronze-Figur bildet den bekannten Gelehrten ab – nahezu in Lebensgröße. In Lichtenbergs Hand liegt eine kleine Kugel mit Plus- und Minus-Symbolen, die auf seinen Lebensweg schließen lässt.",
+        "downs_count": 0,
+        "ups_count": 2,
+        "bucketlist_count": 1,
+        "createdAt": {
+            "_seconds": 1673865755,
+            "_nanoseconds": 442000000
+        },
+        "geoContexts": {
+            "en": {
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "district": "",
+                "postalCode": "",
+                "country": "Germany"
+            },
+            "de": {
+                "region": "Niedersachsen",
+                "country": "Deutschland",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "city": "Göttingen",
+                "district": ""
+            }
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_2e5d36a5-4558-48b2-b9a1-0f66dde0a94f.jpg?alt=media&token=fb546b1d-4b39-4fda-b461-318ffcb141c7&tr=w-600",
+        "visible": "public",
+        "creator": {
+            "displayName": "mein_goettingen",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90"
+        },
+        "language": "de",
+        "updatedAt": {
+            "_seconds": 1674519333,
+            "_nanoseconds": 175000000
+        },
+        "location": {
+            "lat": 51.5330471966056,
+            "long": 9.934955050926195
+        },
+        "visibilityScore": 11,
+        "contentType": "image",
+        "importDatasetSrc": "NDS",
+        "key": "JoiCFXMp2NjdVnjE4Fsm",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_2e5d36a5-4558-48b2-b9a1-0f66dde0a94f.jpg?alt=media&token=fb546b1d-4b39-4fda-b461-318ffcb141c7&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "An der Nordseite des Alten Rathauses steht er seit 1992 mitten in der City und somit im prallen Lebe",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/JoiCFXMp2NjdVnjE4Fsm&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_2e5d36a5-4558-48b2-b9a1-0f66dde0a94f.jpg?alt=media&token=fb546b1d-4b39-4fda-b461-318ffcb141c7&tr=w-600?tr=w-600,h-600&$og_title=Der%20kleine%20Bronze-Mann&contentDescription=An%20der%20Nordseite%20des%20Alten%20Rathauses%20steht%20er%20seit%201992%20mitten%20in%20der%20City%20und%20somit%20im%20prallen%20Lebe"
+    },
+    {
+        "visible": "public",
+        "images": [
+            {
+                "height": 1080,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2F3067E38D-5466-4F84-AD83-3AF5EA3140D8.jpg?alt=media&token=1b9ad783-99f4-49ae-9e0f-b98b0305679d",
+                "uri": "file:///var/mobile/Containers/Data/Application/E6C6B565-8533-4BC9-A8D8-A47E4DFF2D5A/Library/Caches/ReactNative_cropped_image_/6C118BF0-0FEB-436B-8428-A498052565B8.jpg",
+                "width": 864,
+                "blurhash": "U6CsNvNx}?$y02IWVsW;02M|.7Ne4n%KJ.xu"
+            }
+        ],
+        "description": "Nein, wir sind hier nicht im Film Green Lantern, sondern hier werden geheime Nachrichten zwischen der historischen Sternwarte und der Johanniskirche mithilfe des Lasers gesendet. Die selbe Strecke nutzte auch Gauß für den ersten Telegrafen. Im Internet findet man den Code zur Entschlüsselung 🤓.",
+        "ups_count": 3,
+        "geoContexts": {
+            "de": {
+                "district": "",
+                "region": "Niedersachsen",
+                "postalCode": "",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "country": "Deutschland",
+                "city": "Göttingen"
+            },
+            "en": {
+                "isoCountryCode": "DE",
+                "district": "",
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "city": "Göttingen"
+            }
+        },
+        "type": "spotstory",
+        "bucketlist_count": 7,
+        "language": "de",
+        "name": "Green Lantern?",
+        "createdAt": {
+            "_seconds": 1655324965,
+            "_nanoseconds": 939000000
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/3067E38D-5466-4F84-AD83-3AF5EA3140D8.jpg?alt=media&token=1b9ad783-99f4-49ae-9e0f-b98b0305679d&tr=w-600",
+        "contentType": "image",
+        "updatedAt": {
+            "_seconds": 1668939172,
+            "_nanoseconds": 945000000
+        },
+        "community": {
+            "id": "ZATsWon7PX39moGFbn8j",
+            "name": "Do the Time Warp"
+        },
+        "location": {
+            "long": 9.934214560506604,
+            "lat": 51.532972340677816
+        },
+        "creator": {
+            "displayName": "joeshke",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2"
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j3",
+            "8": "u1pj4j3c",
+            "9": "u1pj4j3c7"
+        },
+        "visibilityScore": 9.69999999999999,
+        "category": {
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a",
+            "order": 7,
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "name": "Once upon a Time",
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "names": {
+                "en": "Long Ago",
+                "de": "Zeitreise"
+            },
+            "descriptions": {
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit.",
+                "en": "Finally space to smartass: with facts & places from the past."
+            }
+        },
+        "private": false,
+        "downs_count": 0,
+        "geohash": "u1pj4j3c7f",
+        "key": "WJccmC1Xl8KzT7Dr27uX",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/3067E38D-5466-4F84-AD83-3AF5EA3140D8.jpg?alt=media&token=1b9ad783-99f4-49ae-9e0f-b98b0305679d&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "Nein, wir sind hier nicht im Film Green Lantern, sondern hier werden geheime Nachrichten zwischen de",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/WJccmC1Xl8KzT7Dr27uX&$og_image_url=https://ik.imagekit.io/urbnups/spots/3067E38D-5466-4F84-AD83-3AF5EA3140D8.jpg?alt=media&token=1b9ad783-99f4-49ae-9e0f-b98b0305679d&tr=w-600?tr=w-600,h-600&$og_title=Green%20Lantern?&contentDescription=Nein,%20wir%20sind%20hier%20nicht%20im%20Film%20Green%20Lantern,%20sondern%20hier%20werden%20geheime%20Nachrichten%20zwischen%20de"
+    },
+    {
+        "bucketlist_count": 4,
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4h",
+            "7": "u1pj4hc",
+            "8": "u1pj4hcm",
+            "9": "u1pj4hcm1"
+        },
+        "language": "de",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_0bde47b5-7907-8529-9a10-da3dc666e6a1.jpg?alt=media&token=1b43ba77-d11e-485b-a163-9e19a5f23dff&tr=w-600",
+        "contentType": "image",
+        "creator": {
+            "displayName": "mein_goettingen",
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "profiltype": "business",
+            "profilImagePlaceholder": true,
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "appLanguage": "de"
+        },
+        "category": {
+            "order": 4,
+            "descriptions": {
+                "en": "Is that art or can it go? Unimportant, art is always in the eye of the beholder.",
+                "de": "Ist das Kunst oder kann das Weg? Unwichtig, Kunst liegt ja immer im Auge des Betrachters."
+            },
+            "key": "j6yNatvU1ss8lH0P28V0",
+            "name": "It's Art, B****!",
+            "names": {
+                "en": "It's Art",
+                "de": "It's Art"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Art_List.png?alt=media&token=ca569137-dd37-47ba-a966-3ef28b08c1f8",
+            "id": "j6yNatvU1ss8lH0P28V0"
+        },
+        "images": [
+            {
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_0bde47b5-7907-8529-9a10-da3dc666e6a1.jpg?alt=media&token=1b43ba77-d11e-485b-a163-9e19a5f23dff",
+                "source": "Christoph Mischke",
+                "height": 915,
+                "width": 1221
+            }
+        ],
+        "createdAt": {
+            "_seconds": 1665898723,
+            "_nanoseconds": 0
+        },
+        "downs_count": 0,
+        "updatedAt": {
+            "_seconds": 1674828423,
+            "_nanoseconds": 930000000
+        },
+        "geoContexts": {
+            "de": {
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "district": "",
+                "country": "Deutschland",
+                "subregion": "Göttingen",
+                "region": "Niedersachsen",
+                "city": "Göttingen"
+            },
+            "en": {
+                "postalCode": "",
+                "country": "Germany",
+                "isoCountryCode": "DE",
+                "district": "",
+                "subregion": "Göttingen",
+                "region": "Lower Saxony",
+                "city": "Göttingen"
+            }
+        },
+        "visibilityScore": 6.7,
+        "importDatasetSrcId": "100165786",
+        "ups_count": 2,
+        "name": "Kunsthaus",
+        "cta": {
+            "de": {
+                "link": "https://kunsthaus-goettingen.de/besuch/",
+                "text": "Kostenloser Eintritt"
+            },
+            "en": {
+                "text": "Free entrance",
+                "link": "https://kunsthaus-goettingen.de/english/visit/"
+            }
+        },
+        "importDatasetSrc": "NDS",
+        "description": "Im Jahr 2008 noch als Idee vorgestellt, hat sich im historischen Stadtkern das Kunstquartier Göttingen – kurz „KuQua“ entwickelt. Dessen Herzstück, das Kunsthaus Göttingen, ist seit Sommer 2021 geöffnet. In dem Ausstellungshaus für zeitgenössische Kunst sind jährlich drei bis vier Einzel- oder Gruppenausstellungen mit Werken national und international renommierter Künstler*innen zu sehen.\n",
+        "geohash": "u1pj4hcm1k",
+        "location": {
+            "lat": 51.530879049999996,
+            "long": 9.933421525972644
+        },
+        "visible": "public",
+        "moreInformation": {
+            "web": "http://www.kunsthaus-goettingen.de/",
+            "phone": "+49 (0) 551 50 76 88 70 "
+        },
+        "key": "Xl1kMqBia7QAkDXRdoav",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_0bde47b5-7907-8529-9a10-da3dc666e6a1.jpg?alt=media&token=1b43ba77-d11e-485b-a163-9e19a5f23dff&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Im Jahr 2008 noch als Idee vorgestellt, hat sich im historischen Stadtkern das Kunstquartier Götting",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/Xl1kMqBia7QAkDXRdoav&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_0bde47b5-7907-8529-9a10-da3dc666e6a1.jpg?alt=media&token=1b43ba77-d11e-485b-a163-9e19a5f23dff&tr=w-600?tr=w-600,h-600&$og_title=Kunsthaus&contentDescription=Im%20Jahr%202008%20noch%20als%20Idee%20vorgestellt,%20hat%20sich%20im%20historischen%20Stadtkern%20das%20Kunstquartier%20G%C3%B6tting"
+    },
+    {
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "appLanguage": "de",
+            "displayName": "mein_goettingen",
+            "profilImagePlaceholder": true,
+            "profiltype": "business",
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            }
+        },
+        "importDatasetSrc": "NDS",
+        "category": {
+            "order": 8,
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Architecture_List.png?alt=media&token=e106cf06-7bd7-4509-ad75-b8caeb53e2a2",
+            "descriptions": {
+                "de": "Von Statuen bis zu riesigen Wolkenkratzern, einfach alles zu skurrilen & ästhetischen Bauten.",
+                "en": "From statues to huge skyscrapers, everything about whimsical & aesthetic buildings."
+            },
+            "names": {
+                "en": "Architecture",
+                "de": "Architektur"
+            },
+            "key": "UraTDxxeh6URxEPR0SXc",
+            "name": "Awesome Architecture",
+            "id": "UraTDxxeh6URxEPR0SXc"
+        },
+        "importDatasetSrcId": "100165345",
+        "ups_count": 1,
+        "name": "Ein wahres Meisterwerk",
+        "contentType": "image",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4jd",
+            "8": "u1pj4jdx",
+            "9": "u1pj4jdx7"
+        },
+        "geoContexts": {
+            "en": {
+                "city": "Göttingen",
+                "region": "Lower Saxony",
+                "isoCountryCode": "DE",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "district": ""
+            },
+            "de": {
+                "region": "Niedersachsen",
+                "isoCountryCode": "DE",
+                "district": "",
+                "city": "Göttingen",
+                "postalCode": "",
+                "country": "Deutschland",
+                "subregion": "Göttingen"
+            }
+        },
+        "geohash": "u1pj4jdx76",
+        "visibilityScore": 6.5,
+        "language": "de",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50d5fcd6-fe3d-2300-5c8c-dacc919c28d5.jpg?alt=media&token=a71184f1-8f9a-4990-ad7b-7c188a7bef0e&tr=w-600",
+        "location": {
+            "long": 9.935213578315945,
+            "lat": 51.5353773
+        },
+        "visible": "public",
+        "updatedAt": {
+            "_seconds": 1674533088,
+            "_nanoseconds": 524000000
+        },
+        "description": "Durch die Weender Straße gehen täglich Hunderte von Menschen – alle haben eins gemeinsam: sie passieren die Hausnummer 62, schräg gegenüber der Einmündung zur Mühlenstraße. Und wenn man schon einmal hier ist, lohnt es sich besonders, den Blick einmal zu heben, denn das – 1549 erbaute – Schrödersche Haus ist ein wahres Meisterwerk des Renaissance-Fachwerkbaus. Über den Schaufenstern der Bekleidungsgeschäfte „Blutsgeschwister“ und „Calzedonia“, in der ersten Etage, tut sich ein wahres Schatzkästchen der Holzschnitzerei auf.",
+        "images": [
+            {
+                "source": "Christoph Mischke",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_50d5fcd6-fe3d-2300-5c8c-dacc919c28d5.jpg?alt=media&token=a71184f1-8f9a-4990-ad7b-7c188a7bef0e",
+                "width": 1149,
+                "height": 862
+            },
+            {
+                "width": 951,
+                "source": "Christoph Mischke",
+                "height": 713,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_71e60ea0-d0a6-8531-466a-006a6989e4bb.jpg?alt=media&token=f00dd1f5-7833-47d7-99d3-95575e05eac6"
+            },
+            {
+                "height": 1885,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_fc569771-ce6e-daad-fc99-c886349fb5dd.jpg?alt=media&token=1a355ff9-1770-400d-932f-2373031ebcdb",
+                "width": 1414,
+                "source": "Christoph Mischke"
+            },
+            {
+                "height": 1885,
+                "width": 1414,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_4a0d5395-7dc0-97f6-bfce-33d3fec79156.jpg?alt=media&token=399de6de-2831-42b0-972c-83d150c4bff9",
+                "source": "Christoph Mischke"
+            },
+            {
+                "width": 1414,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_b16f1de2-9d0d-7279-f068-033c759c22db.jpg?alt=media&token=fb470983-6a79-4121-91f4-d42acd234dc3",
+                "source": "Christoph Mischke",
+                "height": 1885
+            }
+        ],
+        "bucketlist_count": 6,
+        "createdAt": {
+            "_seconds": 1666763931,
+            "_nanoseconds": 0
+        },
+        "downs_count": 0,
+        "key": "2KqC9G7dOdW485WA2rKR",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50d5fcd6-fe3d-2300-5c8c-dacc919c28d5.jpg?alt=media&token=a71184f1-8f9a-4990-ad7b-7c188a7bef0e&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Durch die Weender Straße gehen täglich Hunderte von Menschen – alle haben eins gemeinsam: sie passie",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/2KqC9G7dOdW485WA2rKR&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50d5fcd6-fe3d-2300-5c8c-dacc919c28d5.jpg?alt=media&token=a71184f1-8f9a-4990-ad7b-7c188a7bef0e&tr=w-600?tr=w-600,h-600&$og_title=Ein%20wahres%20Meisterwerk&contentDescription=Durch%20die%20Weender%20Stra%C3%9Fe%20gehen%20t%C3%A4glich%20Hunderte%20von%20Menschen%20%E2%80%93%20alle%20haben%20eins%20gemeinsam:%20sie%20passie"
+    },
+    {
+        "category": {
+            "key": "5cY3PuSArDDdq6hmqvCk",
+            "descriptions": {
+                "en": "If you don't have a garden, you'll just have to find one. So many \"green places\" in the middle of urban chaos!",
+                "de": "Wer keinen Garten hat, sucht sich eben einen. So viele „grüne Orte“ mitten im urbanen Chaos!\n"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Greens_List.png?alt=media&token=20d7e72f-1dbb-4a56-b96f-3651f4fc7cdf",
+            "name": "City Oases",
+            "order": 1,
+            "names": {
+                "en": "City Oases",
+                "de": "City Oases"
+            },
+            "id": "5cY3PuSArDDdq6hmqvCk"
+        },
+        "ups_count": 1,
+        "description": "Der Alte Botanische Garten in Göttingen ist ein wahres Juwel der Stadt. Seit über 250 Jahren beherbergt er eine Vielzahl exotischer und heimischer Pflanzen. Der Bereich um den großen Teich ist eine Oase der Ruhe inmitten der Altstadt und lädt zum Verweilen ein. Der Alte Botanische Garten ist ein idealer Ort, um sich von der Hektik des Alltags zu erholen und die Schönheit der Natur zu genießen. Eingänge gibt es an der Weender Straße (neben dem Auditorium Maximum), der Unteren Karspüle 1 und der Wilhelm-Weber-Straße. ",
+        "name": "Grünes Juwel der Stadt",
+        "moreInformation": {
+            "phone": "+49 (0) 5 51 / 39 57 55 "
+        },
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "displayName": "mein_goettingen",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4n",
+            "7": "u1pj4n5",
+            "8": "u1pj4n54",
+            "9": "u1pj4n54y"
+        },
+        "language": "de",
+        "geohash": "u1pj4n54yh",
+        "images": [
+            {
+                "alt": "Alter Botanischer Garten",
+                "uploaded": true,
+                "type": "image/jpeg",
+                "focusX": -0.38,
+                "srcUrl": "https://dam.destination.one/1128613/2d65807eddc858315de200ec30b84a8569e387dc7a9c4484dd74802091f5dfca/alter-botanischer-garten.jpg",
+                "height": 3024,
+                "license": "CC-BY-SA",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_8ab6194b-616f-43da-b327-63aaac0652db.jpg?alt=media&token=ad9616d8-18ff-4a7d-9f74-80655dae97fd",
+                "source": "Göttingen Tourismus und Marketing, Leonie Lakemann",
+                "value": "Alter Botanischer Garten",
+                "firebaseImageUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_8ab6194b-616f-43da-b327-63aaac0652db.jpg?alt=media&token=ad9616d8-18ff-4a7d-9f74-80655dae97fd",
+                "prio": 1,
+                "focusY": 0.29,
+                "rel": "default",
+                "latitude": 51.537363,
+                "width": 4032,
+                "longitude": 9.93602195888327,
+                "selected": true
+            }
+        ],
+        "visibilityScore": 5,
+        "contentType": "image",
+        "createdAt": {
+            "_seconds": 1672055086,
+            "_nanoseconds": 673000000
+        },
+        "importDatasetSrc": "NDS",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8ab6194b-616f-43da-b327-63aaac0652db.jpg?alt=media&token=ad9616d8-18ff-4a7d-9f74-80655dae97fd&tr=w-600",
+        "importDatasetSrcId": "100165310",
+        "downs_count": 0,
+        "location": {
+            "long": 9.936021958883273,
+            "lat": 51.537363
+        },
+        "updatedAt": {
+            "_seconds": 1674535168,
+            "_nanoseconds": 556000000
+        },
+        "visible": "public",
+        "geoContexts": {
+            "en": {
+                "region": "Lower Saxony",
+                "subregion": "Göttingen",
+                "district": "",
+                "postalCode": "",
+                "country": "Germany",
+                "city": "Göttingen",
+                "isoCountryCode": "DE"
+            },
+            "de": {
+                "isoCountryCode": "DE",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "district": "",
+                "city": "Göttingen",
+                "region": "Niedersachsen",
+                "country": "Deutschland"
+            }
+        },
+        "bucketlist_count": 2,
+        "key": "BnmfXvS5wDmUioYF7jNk",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8ab6194b-616f-43da-b327-63aaac0652db.jpg?alt=media&token=ad9616d8-18ff-4a7d-9f74-80655dae97fd&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Leonie Lakemann",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Der Alte Botanische Garten in Göttingen ist ein wahres Juwel der Stadt. Seit über 250 Jahren beherbe",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/BnmfXvS5wDmUioYF7jNk&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8ab6194b-616f-43da-b327-63aaac0652db.jpg?alt=media&token=ad9616d8-18ff-4a7d-9f74-80655dae97fd&tr=w-600?tr=w-600,h-600&$og_title=Gr%C3%BCnes%20Juwel%20der%20Stadt&contentDescription=Der%20Alte%20Botanische%20Garten%20in%20G%C3%B6ttingen%20ist%20ein%20wahres%20Juwel%20der%20Stadt.%20Seit%20%C3%BCber%20250%20Jahren%20beherbe"
+    },
+    {
+        "name": "Einschlag mit dumpfem Rumms",
+        "geohash": "u1pj4zup6p",
+        "updatedAt": {
+            "_seconds": 1674533713,
+            "_nanoseconds": 249000000
+        },
+        "importDatasetSrcId": "100165443",
+        "importDatasetSrc": "NDS",
+        "geoContexts": {
+            "de": {
+                "postalCode": "",
+                "subregion": "Göttingen",
+                "region": "Niedersachsen",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "country": "Deutschland",
+                "district": ""
+            },
+            "en": {
+                "city": "Göttingen",
+                "country": "Germany",
+                "district": "",
+                "isoCountryCode": "DE",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "region": "Lower Saxony"
+            }
+        },
+        "ups_count": 0,
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4z",
+            "7": "u1pj4zu",
+            "8": "u1pj4zup",
+            "9": "u1pj4zup6"
+        },
+        "creator": {
+            "displayName": "mein_goettingen",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "images": [
+            {
+                "source": "Göttingen Tourismus und Marketing / Mischke",
+                "height": 1181,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_3d46781e-034c-08f2-1a2e-45c269b57037.jpg?alt=media&token=64ea61fe-5aa1-43d6-9950-48825caa1d7f",
+                "width": 1575
+            },
+            {
+                "height": 1181,
+                "source": "Göttingen Tourismus und Marketing / Mischke",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_de15cfe1-9464-127f-4416-caba6bccc6f3.jpg?alt=media&token=e40da5f4-8387-4567-a2b2-034bb4923d93",
+                "width": 1575
+            }
+        ],
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_3d46781e-034c-08f2-1a2e-45c269b57037.jpg?alt=media&token=64ea61fe-5aa1-43d6-9950-48825caa1d7f&tr=w-600",
+        "bucketlist_count": 3,
+        "visibilityScore": 2.3000000000000007,
+        "language": "de",
+        "moreInformation": {
+            "phone": "05508-9767-10"
+        },
+        "contentType": "image",
+        "createdAt": {
+            "_seconds": 1672055768,
+            "_nanoseconds": 734000000
+        },
+        "description": "Göttingen gilt schon seit rund zwei Jahrhunderten als ein Zentrum der Messtechnik. Eine für unsere Breiten ganz und gar untypische Messstation befindet sich hoch oben auf dem Hainberg im Göttinger Wald: die Wiechert’sche Erdbebenwarte. 1903 in Betrieb genommen, ist sie die älteste aktive seismische Messeinrichtung der Welt.",
+        "category": {
+            "name": "Once upon a Time",
+            "descriptions": {
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit.",
+                "en": "Finally space to smartass: with facts & places from the past."
+            },
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "names": {
+                "de": "Zeitreise",
+                "en": "Long Ago"
+            },
+            "order": 7,
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a"
+        },
+        "downs_count": 0,
+        "location": {
+            "lat": 51.5477605,
+            "long": 9.9701843
+        },
+        "visible": "public",
+        "key": "ZgjZ01ZIBs2aivM8yuaU",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_3d46781e-034c-08f2-1a2e-45c269b57037.jpg?alt=media&token=64ea61fe-5aa1-43d6-9950-48825caa1d7f&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing / Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Göttingen gilt schon seit rund zwei Jahrhunderten als ein Zentrum der Messtechnik. Eine für unsere B",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/ZgjZ01ZIBs2aivM8yuaU&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_3d46781e-034c-08f2-1a2e-45c269b57037.jpg?alt=media&token=64ea61fe-5aa1-43d6-9950-48825caa1d7f&tr=w-600?tr=w-600,h-600&$og_title=Einschlag%20mit%20dumpfem%20Rumms&contentDescription=G%C3%B6ttingen%20gilt%20schon%20seit%20rund%20zwei%20Jahrhunderten%20als%20ein%20Zentrum%20der%20Messtechnik.%20Eine%20f%C3%BCr%20unsere%20B"
+    },
+    {
+        "creator": {
+            "displayName": "mein_goettingen",
+            "profiltype": "business",
+            "profilImagePlaceholder": true,
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "appLanguage": "de",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90"
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4t",
+            "7": "u1pj4t8",
+            "8": "u1pj4t8b",
+            "9": "u1pj4t8bc"
+        },
+        "description": "Endlich ein wenig entspannen. Nicht nur bei schönem Wetter und an Wochenenden trifft man auf der Schillerwiese eine Vielzahl von Spaziergängern, Joggern und Hundebesitzern. Gerade bei Familien ist die Schillerwiese beliebt, das Freizeitangebot umfasst Liegewiesen, Kinderspielplatz „Kletterwald“, Minigolf, Tennisplätze und einen Kiosk.\n\nZudem finden sich hier viele 80- bis 90- jährige Laub- und Nadelbäume, darunter einige beeindruckende Solitäre und exotische Arten. ",
+        "name": "Eine Auszeit im Grünen",
+        "images": [
+            {
+                "height": 818,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_f58af1ed-61cc-481f-8afd-c1c8af93184d.jpg?alt=media&token=de9eee5a-9822-4978-bbdc-da1a6dc7a27e",
+                "fileName": "Od3ZiC4kZLceYP15mM19bc1UZSr2_f58af1ed-61cc-481f-8afd-c1c8af93184d.jpg",
+                "width": 1024
+            }
+        ],
+        "contentType": "image",
+        "geohash": "u1pj4t8bcu",
+        "bucketlist_count": 1,
+        "visibilityScore": 2,
+        "location": {
+            "lat": 51.534270355105946,
+            "long": 9.954729080200195
+        },
+        "importDatasetSrcId": "100165636",
+        "category": {
+            "id": "5cY3PuSArDDdq6hmqvCk",
+            "names": {
+                "de": "City Oases",
+                "en": "City Oases"
+            },
+            "name": "City Oases",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Greens_List.png?alt=media&token=20d7e72f-1dbb-4a56-b96f-3651f4fc7cdf",
+            "order": 1,
+            "key": "5cY3PuSArDDdq6hmqvCk",
+            "descriptions": {
+                "de": "Wer keinen Garten hat, sucht sich eben einen. So viele „grüne Orte“ mitten im urbanen Chaos!\n",
+                "en": "If you don't have a garden, you'll just have to find one. So many \"green places\" in the middle of urban chaos!"
+            }
+        },
+        "downs_count": 0,
+        "updatedAt": {
+            "_seconds": 1674529375,
+            "_nanoseconds": 66000000
+        },
+        "geoContexts": {
+            "de": {
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "region": "Niedersachsen",
+                "postalCode": "",
+                "country": "Deutschland",
+                "district": "",
+                "subregion": "Göttingen"
+            },
+            "en": {
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "region": "Lower Saxony",
+                "district": "",
+                "city": "Göttingen",
+                "postalCode": "",
+                "isoCountryCode": "DE"
+            }
+        },
+        "language": "de",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_f58af1ed-61cc-481f-8afd-c1c8af93184d.jpg?alt=media&token=de9eee5a-9822-4978-bbdc-da1a6dc7a27e&tr=w-600",
+        "createdAt": {
+            "_seconds": 1652639522,
+            "_nanoseconds": 0
+        },
+        "importDatasetSrc": "NDS",
+        "ups_count": 0,
+        "visible": "public",
+        "key": "lk2JZmewNblV4pMzeV6v",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_f58af1ed-61cc-481f-8afd-c1c8af93184d.jpg?alt=media&token=de9eee5a-9822-4978-bbdc-da1a6dc7a27e&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Endlich ein wenig entspannen. Nicht nur bei schönem Wetter und an Wochenenden trifft man auf der Sch",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/lk2JZmewNblV4pMzeV6v&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_f58af1ed-61cc-481f-8afd-c1c8af93184d.jpg?alt=media&token=de9eee5a-9822-4978-bbdc-da1a6dc7a27e&tr=w-600?tr=w-600,h-600&$og_title=Eine%20Auszeit%20im%20Gr%C3%BCnen&contentDescription=Endlich%20ein%20wenig%20entspannen.%20Nicht%20nur%20bei%20sch%C3%B6nem%20Wetter%20und%20an%20Wochenenden%20trifft%20man%20auf%20der%20Sch"
+    },
+    {
+        "downs_count": 0,
+        "ups_count": 1,
+        "geoContexts": {
+            "de": {
+                "subregion": "Göttingen",
+                "district": "",
+                "country": "Deutschland",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "city": "Göttingen",
+                "region": "Niedersachsen"
+            },
+            "en": {
+                "isoCountryCode": "DE",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "district": "",
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "city": "Göttingen"
+            }
+        },
+        "bucketlist_count": 3,
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50a4d43a-3844-4080-b577-f5a529b7d60c.jpg?alt=media&token=8374da3b-dd89-4d61-97c4-ae09d454fad0&tr=w-600",
+        "category": {
+            "names": {
+                "de": "Locals",
+                "en": "Locals"
+            },
+            "key": "gQSHB7EmxgTSTaRoxT6D",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Locals_List.png?alt=media&token=a67c9baf-9e6a-4375-98f1-d17e39e74df9",
+            "order": 3,
+            "descriptions": {
+                "de": "Magische Orte, die in keinem Reiseführer stehen? Yay, her mit den Tipps der Locals...",
+                "en": "Magical places that are not in any travel guide? Yay, give it to me..."
+            },
+            "id": "gQSHB7EmxgTSTaRoxT6D",
+            "name": "Locals & the City"
+        },
+        "updatedAt": {
+            "_seconds": 1674517535,
+            "_nanoseconds": 493000000
+        },
+        "geohash": "u1pj4jeky5",
+        "creator": {
+            "displayName": "mein_goettingen",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4je",
+            "8": "u1pj4jek",
+            "9": "u1pj4jeky"
+        },
+        "language": "de",
+        "visibilityScore": 1.9999999999999987,
+        "createdAt": {
+            "_seconds": 1672243325,
+            "_nanoseconds": 420000000
+        },
+        "visible": "public",
+        "contentType": "image",
+        "images": [
+            {
+                "height": 819,
+                "width": 1024,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_50a4d43a-3844-4080-b577-f5a529b7d60c.jpg?alt=media&token=8374da3b-dd89-4d61-97c4-ae09d454fad0",
+                "fileName": "Od3ZiC4kZLceYP15mM19bc1UZSr2_50a4d43a-3844-4080-b577-f5a529b7d60c.jpg"
+            }
+        ],
+        "name": "Kneipe und Getränk",
+        "description": "Zu einer waschechten Studienstadt gehören auch viele Kneipen. Gerade weil Göttingen so eine Studierendenstadt ist, gibt es ein große Auswahl an unterschiedlichen Kneipen und Bars.\n \nHier tummeln sich am Abend die Studierenden und lassen die erlernten Vorlesungsinhalte bei einem kühlen Getränk sacken.",
+        "location": {
+            "long": 9.936371371150017,
+            "lat": 51.534950872539746
+        },
+        "key": "iKBb368P3pUzALZVf1qi",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50a4d43a-3844-4080-b577-f5a529b7d60c.jpg?alt=media&token=8374da3b-dd89-4d61-97c4-ae09d454fad0&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Zu einer waschechten Studienstadt gehören auch viele Kneipen. Gerade weil Göttingen so eine Studiere",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/iKBb368P3pUzALZVf1qi&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_50a4d43a-3844-4080-b577-f5a529b7d60c.jpg?alt=media&token=8374da3b-dd89-4d61-97c4-ae09d454fad0&tr=w-600?tr=w-600,h-600&$og_title=Kneipe%20und%20Getr%C3%A4nk&contentDescription=Zu%20einer%20waschechten%20Studienstadt%20geh%C3%B6ren%20auch%20viele%20Kneipen.%20Gerade%20weil%20G%C3%B6ttingen%20so%20eine%20Studiere"
+    },
+    {
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/3BD7BE28-5A47-4A46-BFF4-6C6778DFB132.jpg",
+        "visible": "public",
+        "bucketlist_count": 2,
+        "category": {
+            "name": "Oh, it's yummy",
+            "order": 5,
+            "selected": true,
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Yummy_List.png?alt=media&token=d4cebd31-3928-4f37-bd74-2beda7497266",
+            "descriptions": {
+                "de": "Num... so lecker. Kulinarisches & wissenswertes über köstliche Dinge in der Umgebung.",
+                "en": "Num... so delicious. Culinary & worth knowing about delicious things in the area."
+            },
+            "key": "oBszLXdbgp8x1LRcdSXx",
+            "id": "oBszLXdbgp8x1LRcdSXx"
+        },
+        "downs_count": 0,
+        "geoContexts": {
+            "de": {
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "country": "Deutschland",
+                "region": "Niedersachsen",
+                "district": "",
+                "isoCountryCode": "DE",
+                "city": "Göttingen"
+            },
+            "en": {
+                "region": "Lower Saxony",
+                "postalCode": "",
+                "district": "",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "city": "Göttingen"
+            }
+        },
+        "ups_count": 4,
+        "private": false,
+        "location": {
+            "lat": 51.53282793388311,
+            "long": 9.932214298073234
+        },
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2F3C54803E-6171-4A15-B125-98CBB736418C.jpg?alt=media&token=b367aca6-fe14-46a3-9d9a-d51962c84ae8",
+            "displayName": "sooosweet2",
+            "uid": "XJHUtC30SVZbpXmC50AcS2EuNGs2"
+        },
+        "language": "en",
+        "geohash": "u1pj4j22mr",
+        "images": [
+            {
+                "height": 1080,
+                "uri": "file:///var/mobile/Containers/Data/Application/5388588C-C004-47DD-A105-26241D4699B8/Library/Caches/ReactNative_cropped_image_/A11D632C-E8B9-4066-8349-A151E129A199.jpg",
+                "width": 864,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2F3BD7BE28-5A47-4A46-BFF4-6C6778DFB132.jpg?alt=media&token=2c81777a-9a0d-4274-90dc-316c5f5ef6da"
+            }
+        ],
+        "description": "",
+        "name": "Enjoy authentic Russian cuisine in the middle of Göttingen",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j2",
+            "8": "u1pj4j22",
+            "9": "u1pj4j22m"
+        },
+        "updatedAt": {
+            "_seconds": 1654601538,
+            "_nanoseconds": 998000000
+        },
+        "type": "image",
+        "createdAt": {
+            "_seconds": 1654601538,
+            "_nanoseconds": 998000000
+        },
+        "visibilityScore": 1.6999999999999997,
+        "contentType": "image",
+        "key": "2bFZ5vRMqZWwbNGIs9wp",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/3BD7BE28-5A47-4A46-BFF4-6C6778DFB132.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/3C54803E-6171-4A15-B125-98CBB736418C.jpg?alt=media&token=b367aca6-fe14-46a3-9d9a-d51962c84ae8&tr=w-80",
+        "description_snippet": "",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/2bFZ5vRMqZWwbNGIs9wp&$og_image_url=https://ik.imagekit.io/urbnups/spots/3BD7BE28-5A47-4A46-BFF4-6C6778DFB132.jpg?tr=w-600,h-600&$og_title=Enjoy%20authentic%20Russian%20cuisine%20in%20the%20middle%20of%20G%C3%B6ttingen&contentDescription="
+    },
+    {
+        "language": "de",
+        "private": false,
+        "type": "image",
+        "contentType": "image",
+        "createdAt": {
+            "_seconds": 1656273199,
+            "_nanoseconds": 931000000
+        },
+        "visible": "public",
+        "bucketlist_count": 4,
+        "images": [
+            {
+                "height": 1080,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FE8959A87-65F2-4918-8B31-CB2D466524B8.jpg?alt=media&token=4fe79ecb-5b83-4f08-b6c0-6802c2a32946",
+                "width": 1080,
+                "uri": "file:///var/mobile/Containers/Data/Application/D34DAA0B-D589-443C-9A24-5B454119FC86/Library/Caches/ReactNative_cropped_image_/900A6F70-BEFA-429E-AC4C-089706462EA9.jpg",
+                "blurhash": "U8EpQN~qHqS#y0$*R=OW%fxH9FSwx_WAMuS$"
+            }
+        ],
+        "updatedAt": {
+            "_seconds": 1656273199,
+            "_nanoseconds": 931000000
+        },
+        "geoContexts": {
+            "en": {
+                "isoCountryCode": "DE",
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "district": "",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "country": "Germany"
+            },
+            "de": {
+                "country": "Deutschland",
+                "region": "Niedersachsen",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "district": "",
+                "postalCode": "",
+                "isoCountryCode": "DE"
+            }
+        },
+        "geohash": "u1pj1vppm5",
+        "description": "",
+        "ups_count": 5,
+        "creator": {
+            "displayName": "joeshke",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2"
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/E8959A87-65F2-4918-8B31-CB2D466524B8.jpg",
+        "location": {
+            "long": 9.930483330385613,
+            "lat": 51.53263728488491
+        },
+        "downs_count": 0,
+        "name": "Love is on the bridge ❤️🔒",
+        "category": {
+            "name": "Locals & the City",
+            "key": "gQSHB7EmxgTSTaRoxT6D",
+            "id": "gQSHB7EmxgTSTaRoxT6D",
+            "selected": true,
+            "order": 3,
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Locals_List.png?alt=media&token=a67c9baf-9e6a-4375-98f1-d17e39e74df9",
+            "descriptions": {
+                "en": "Magical places that are not in any travel guide? Yay, give it to me...",
+                "de": "Magische Orte, die in keinem Reiseführer stehen? Yay, her mit den Tipps der Locals..."
+            }
+        },
+        "visibilityScore": 1.5,
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1v",
+            "7": "u1pj1vp",
+            "8": "u1pj1vpp",
+            "9": "u1pj1vppm"
+        },
+        "key": "x7VXHc1Olxy98ztNVGWV",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/E8959A87-65F2-4918-8B31-CB2D466524B8.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/x7VXHc1Olxy98ztNVGWV&$og_image_url=https://ik.imagekit.io/urbnups/spots/E8959A87-65F2-4918-8B31-CB2D466524B8.jpg?tr=w-600,h-600&$og_title=Love%20is%20on%20the%20bridge%20%E2%9D%A4%EF%B8%8F%F0%9F%94%92&contentDescription="
+    },
+    {
+        "createdAt": {
+            "_seconds": 1672055507,
+            "_nanoseconds": 393000000
+        },
+        "name": "Vierfacher Ausblick",
+        "downs_count": 0,
+        "importDatasetSrc": "NDS",
+        "images": [
+            {
+                "rel": "default",
+                "width": 3543,
+                "alt": "Vier-Kirchen-Blick",
+                "type": "image/jpeg",
+                "source": "Göttingen Tourismus und Marketing, Christoph Mischke",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_78bc0ed2-6a8d-46cb-8b11-b3f0f4874f4b.jpg?alt=media&token=01ec1af9-9513-4128-92e2-5da4f73f5acf",
+                "prio": 1,
+                "value": "Vier-Kirchen-Blick",
+                "height": 2362,
+                "uploaded": true,
+                "srcUrl": "https://dam.destination.one/1130863/7ab76de7b816ceb1c5f5dbc329296d053d27671378792269894f241fc51f8df2/vier-kirchen-blick.jpg",
+                "license": "CC-BY-SA",
+                "firebaseImageUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_78bc0ed2-6a8d-46cb-8b11-b3f0f4874f4b.jpg?alt=media&token=01ec1af9-9513-4128-92e2-5da4f73f5acf",
+                "latitude": 51.532641910458,
+                "selected": true,
+                "focusX": -0.12,
+                "focusY": 0.32,
+                "longitude": 9.93687629699707
+            }
+        ],
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_78bc0ed2-6a8d-46cb-8b11-b3f0f4874f4b.jpg?alt=media&token=01ec1af9-9513-4128-92e2-5da4f73f5acf&tr=w-600",
+        "creator": {
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "displayName": "mein_goettingen",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90"
+        },
+        "location": {
+            "long": 9.935291111469269,
+            "lat": 51.53251009732839
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j4",
+            "8": "u1pj4j4w",
+            "9": "u1pj4j4wt"
+        },
+        "geohash": "u1pj4j4wth",
+        "updatedAt": {
+            "_seconds": 1674533865,
+            "_nanoseconds": 55000000
+        },
+        "ups_count": 0,
+        "language": "de",
+        "description": "Diese Bronzeplatte im Straßenpflaster genau an der Ecke Kornmarkt/Markt zeigt den Standort, von dem man alle vier Innenstadtkirchen sehen kann. Diese sind im Westen St. Johannis, im Norden St. Jacobi, im Osten St. Albani und im Süden St. Michael. In der Gebäudezeile an der Südseite des Marktplatzes stand das älteste Gildehaus Göttingens von 1251, der „Schuhhof“. Darunter befindet sich ein gotischer Gewölbekeller, in dem heute eine Gaststätte untergebracht ist.",
+        "contentType": "image",
+        "category": {
+            "order": 9,
+            "key": "QUzehPTBFto1NCysIVyq",
+            "id": "QUzehPTBFto1NCysIVyq",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Random_List.png?alt=media&token=a3181e3f-199f-4e10-89c6-f81481efa4cf",
+            "names": {
+                "de": "Verschiedenes",
+                "en": "Random"
+            },
+            "name": "Random Stuff",
+            "descriptions": {
+                "en": "What do I know? Doesn't fit into any category - but is too nice not to share.",
+                "de": "Was weiß ich denn? Passt in keine Kategorie – aber ist auch zu nice, um es nicht zu teilen."
+            }
+        },
+        "geoContexts": {
+            "de": {
+                "postalCode": "",
+                "district": "",
+                "isoCountryCode": "DE",
+                "region": "Niedersachsen",
+                "country": "Deutschland",
+                "city": "Göttingen",
+                "subregion": "Göttingen"
+            },
+            "en": {
+                "district": "",
+                "postalCode": "",
+                "isoCountryCode": "DE",
+                "subregion": "Göttingen",
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "country": "Germany"
+            }
+        },
+        "visible": "public",
+        "bucketlist_count": 0,
+        "importDatasetSrcId": "100165348",
+        "visibilityScore": 1.2000000000000002,
+        "key": "fJut14ajnbupauIjyQNu",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_78bc0ed2-6a8d-46cb-8b11-b3f0f4874f4b.jpg?alt=media&token=01ec1af9-9513-4128-92e2-5da4f73f5acf&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Diese Bronzeplatte im Straßenpflaster genau an der Ecke Kornmarkt/Markt zeigt den Standort, von dem ",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/fJut14ajnbupauIjyQNu&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_78bc0ed2-6a8d-46cb-8b11-b3f0f4874f4b.jpg?alt=media&token=01ec1af9-9513-4128-92e2-5da4f73f5acf&tr=w-600?tr=w-600,h-600&$og_title=Vierfacher%20Ausblick&contentDescription=Diese%20Bronzeplatte%20im%20Stra%C3%9Fenpflaster%20genau%20an%20der%20Ecke%20Kornmarkt/Markt%20zeigt%20den%20Standort,%20von%20dem%20"
+    },
+    {
+        "downs_count": 0,
+        "createdAt": {
+            "_seconds": 1665785733,
+            "_nanoseconds": 369000000
+        },
+        "category": {
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Locals_List.png?alt=media&token=a67c9baf-9e6a-4375-98f1-d17e39e74df9",
+            "id": "gQSHB7EmxgTSTaRoxT6D",
+            "order": 3,
+            "descriptions": {
+                "de": "Magische Orte, die in keinem Reiseführer stehen? Yay, her mit den Tipps der Locals...",
+                "en": "Magical places that are not in any travel guide? Yay, give it to me..."
+            },
+            "name": "Locals & the City",
+            "key": "gQSHB7EmxgTSTaRoxT6D",
+            "names": {
+                "de": "Locals",
+                "en": "Locals"
+            }
+        },
+        "name": "Salamanca ",
+        "location": {
+            "lat": 51.53111706783807,
+            "long": 9.931071661412716
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1u",
+            "7": "u1pj1uz",
+            "8": "u1pj1uzw",
+            "9": "u1pj1uzwd"
+        },
+        "description": "Great food. Good drinks. Fun atmosphere.",
+        "creator": {
+            "displayName": "renee",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2F453b3baf-739b-4e89-ae2f-04ae0217eeed.JPEG?alt=media&token=8da0f5f2-a5ae-408f-980e-89785c37eb5e",
+            "uid": "20AOYotcMefZgJZHDLoZ7JLl3oH2"
+        },
+        "visible": "public",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/7cd4dd58-2647-47b9-9d8d-8ed6934b1f0f.jpg",
+        "bucketlist_count": 4,
+        "geohash": "u1pj1uzwd8",
+        "contentType": "image",
+        "updatedAt": {
+            "_seconds": 1665785733,
+            "_nanoseconds": 369000000
+        },
+        "geoContexts": {
+            "de": {
+                "region": "Niedersachsen",
+                "postalCode": "",
+                "isoCountryCode": "DE",
+                "country": "Deutschland",
+                "subregion": "Göttingen",
+                "district": "",
+                "city": "Göttingen"
+            },
+            "en": {
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "region": "Lower Saxony",
+                "country": "Germany",
+                "city": "Göttingen",
+                "district": "",
+                "postalCode": ""
+            }
+        },
+        "visibilityScore": 1.1,
+        "images": [
+            {
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2F7cd4dd58-2647-47b9-9d8d-8ed6934b1f0f.jpg?alt=media&token=ce1e3383-a295-4701-b014-0b1750766bf4",
+                "width": 768,
+                "height": 1024
+            }
+        ],
+        "language": "en",
+        "ups_count": 1,
+        "type": "image",
+        "key": "aZ1Cg1ofKLPnR3NFpov5",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/7cd4dd58-2647-47b9-9d8d-8ed6934b1f0f.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2F453b3baf-739b-4e89-ae2f-04ae0217eeed.JPEG?alt=media&token=8da0f5f2-a5ae-408f-980e-89785c37eb5e&tr=w-80",
+        "description_snippet": "Great food. Good drinks. Fun atmosphere.",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/aZ1Cg1ofKLPnR3NFpov5&$og_image_url=https://ik.imagekit.io/urbnups/spots/7cd4dd58-2647-47b9-9d8d-8ed6934b1f0f.jpg?tr=w-600,h-600&$og_title=Salamanca%20&contentDescription=Great%20food.%20Good%20drinks.%20Fun%20atmosphere."
+    },
+    {
+        "bucketlist_count": 9,
+        "creator": {
+            "tiktok": "",
+            "createdAt": {
+                "_seconds": 1655572002,
+                "_nanoseconds": 0
+            },
+            "uid": "vy7yvbsOqKXiqAIxm1b4PKDfrYB3",
+            "visibility": "public",
+            "shortInfo": "Für neugierige Menschen mit der Einstellung, immer in Bewegung zu sein",
+            "collections": true,
+            "displayName": "urbnups",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Furbnups_d52624ec-9bfa-4ba6-a9c8-110bd36b8511.jpg?alt=media&token=ad17940e-898d-4598-b576-0ba8014ce7e8",
+            "website": "urbnups.com",
+            "fullName": "urbnups",
+            "instagram": "urbnups",
+            "available": true,
+            "profiltype": "business",
+            "homebase_geoContext": {
+                "en": {
+                    "isoCountryCode": "DE",
+                    "region": "Hamburg",
+                    "country": "Germany",
+                    "subregion": "Hamburg",
+                    "postalCode": "20095",
+                    "district": "Hamburg",
+                    "city": "Hamburg"
+                },
+                "de": {
+                    "isoCountryCode": "DE",
+                    "country": "Deutschland",
+                    "region": "Hamburg",
+                    "postalCode": "20095",
+                    "city": "Hamburg",
+                    "subregion": "Hamburg",
+                    "district": "Hamburg"
+                }
+            },
+            "profilImagePlaceholder": true
+        },
+        "visible": "public",
+        "location": {
+            "long": 9.935153686868944,
+            "lat": 51.5326938694694
+        },
+        "name": "Eine kussreiche Geschichte",
+        "images": [
+            {
+                "height": 1024,
+                "width": 1024,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2Fvy7yvbsOqKXiqAIxm1b4PKDfrYB3_2b2e8772-f6d7-4afa-b92f-1a6a701b0786.jpg?alt=media&token=f45571f4-c7bd-4ce3-a185-994c8cd5ac3c"
+            }
+        ],
+        "type": "text",
+        "description": "Erst ein Kussverbot. Dann ein legendärer „Kuss-Prozess“. Und mittlerweile eine Attraktion für Besucher aus der ganzen Welt. Die Gänseliesel blickt auf eine stürmische Geschichte zurück. Die Küssenden sind meist frisch examinierte Doktoranden. Diese besteigen seit Jahrzehnten den Brunnen und küssen die Bronzefigur. Offiziell erlaubt ist das ganze Spektakel übrigens erst seit 2001. ",
+        "community": {
+            "id": "I8ehUD7vZc1T0B1d8K2Z",
+            "name": "Like a Local"
+        },
+        "createdAt": {
+            "_seconds": 1648706921,
+            "_nanoseconds": 880000000
+        },
+        "contentType": "image",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j4",
+            "8": "u1pj4j4x",
+            "9": "u1pj4j4x9"
+        },
+        "language": "de",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/vy7yvbsOqKXiqAIxm1b4PKDfrYB3_2b2e8772-f6d7-4afa-b92f-1a6a701b0786.jpg?alt=media&token=f45571f4-c7bd-4ce3-a185-994c8cd5ac3c&tr=w-600",
+        "geohash": "u1pj4j4x9y",
+        "ups_count": 9,
+        "updatedAt": {
+            "_seconds": 1674521311,
+            "_nanoseconds": 75000000
+        },
+        "geoContexts": {
+            "de": {
+                "postalCode": "",
+                "country": "Deutschland",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "region": "Niedersachsen",
+                "district": ""
+            },
+            "en": {
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "subregion": "Göttingen",
+                "district": "",
+                "country": "Germany"
+            }
+        },
+        "category": {
+            "names": {
+                "de": "Locals",
+                "en": "Locals"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Locals_List.png?alt=media&token=a67c9baf-9e6a-4375-98f1-d17e39e74df9",
+            "descriptions": {
+                "en": "Magical places that are not in any travel guide? Yay, give it to me...",
+                "de": "Magische Orte, die in keinem Reiseführer stehen? Yay, her mit den Tipps der Locals..."
+            },
+            "order": 3,
+            "id": "gQSHB7EmxgTSTaRoxT6D",
+            "key": "gQSHB7EmxgTSTaRoxT6D",
+            "name": "Locals & the City"
+        },
+        "visibilityScore": 1.0999999999999983,
+        "downs_count": 0,
+        "key": "PWrhDRLfjxmlvQKtAwXg",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/vy7yvbsOqKXiqAIxm1b4PKDfrYB3_2b2e8772-f6d7-4afa-b92f-1a6a701b0786.jpg?alt=media&token=f45571f4-c7bd-4ce3-a185-994c8cd5ac3c&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/urbnups_d52624ec-9bfa-4ba6-a9c8-110bd36b8511.jpg?alt=media&token=ad17940e-898d-4598-b576-0ba8014ce7e8&tr=w-80",
+        "description_snippet": "Erst ein Kussverbot. Dann ein legendärer „Kuss-Prozess“. Und mittlerweile eine Attraktion für Besuch",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/PWrhDRLfjxmlvQKtAwXg&$og_image_url=https://ik.imagekit.io/urbnups/spots/vy7yvbsOqKXiqAIxm1b4PKDfrYB3_2b2e8772-f6d7-4afa-b92f-1a6a701b0786.jpg?alt=media&token=f45571f4-c7bd-4ce3-a185-994c8cd5ac3c&tr=w-600?tr=w-600,h-600&$og_title=Eine%20kussreiche%20Geschichte&contentDescription=Erst%20ein%20Kussverbot.%20Dann%20ein%20legend%C3%A4rer%20%E2%80%9EKuss-Prozess%E2%80%9C.%20Und%20mittlerweile%20eine%20Attraktion%20f%C3%BCr%20Besuch"
+    },
+    {
+        "ups_count": 0,
+        "category": {
+            "order": 8,
+            "descriptions": {
+                "en": "From statues to huge skyscrapers, everything about whimsical & aesthetic buildings.",
+                "de": "Von Statuen bis zu riesigen Wolkenkratzern, einfach alles zu skurrilen & ästhetischen Bauten."
+            },
+            "names": {
+                "de": "Architektur",
+                "en": "Architecture"
+            },
+            "name": "Awesome Architecture",
+            "id": "UraTDxxeh6URxEPR0SXc",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Architecture_List.png?alt=media&token=e106cf06-7bd7-4509-ad75-b8caeb53e2a2",
+            "key": "UraTDxxeh6URxEPR0SXc"
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1u",
+            "7": "u1pj1ux",
+            "8": "u1pj1uxz",
+            "9": "u1pj1uxzx"
+        },
+        "language": "de",
+        "bucketlist_count": 1,
+        "updatedAt": {
+            "_seconds": 1674536364,
+            "_nanoseconds": 936000000
+        },
+        "visible": "public",
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "displayName": "mein_goettingen",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "createdAt": {
+            "_seconds": 1674523411,
+            "_nanoseconds": 940000000
+        },
+        "images": [
+            {
+                "height": 1987,
+                "source": "Göttingen Tourismus und Marketing, Christoph Mischke",
+                "width": 2649,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_5721444c-882e-7b5d-91f7-fade6cf0e276.jpg?alt=media&token=e5dc65d7-a7d0-4cdd-86eb-f5cb7d571790"
+            }
+        ],
+        "downs_count": 0,
+        "name": "Bismarcks Studentenbude",
+        "geohash": "u1pj1uxzx1",
+        "location": {
+            "lat": 51.5299193635999,
+            "long": 9.931608416620236
+        },
+        "geoContexts": {
+            "en": {
+                "region": "Lower Saxony",
+                "district": "",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "country": "Germany"
+            },
+            "de": {
+                "subregion": "Göttingen",
+                "district": "",
+                "region": "Niedersachsen",
+                "country": "Deutschland",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "postalCode": ""
+            }
+        },
+        "contentType": "image",
+        "visibilityScore": 1,
+        "description": "Dieses Häuschen ist der letzte noch erhaltene Wallturm von 1459 – ein Rest der äußeren Stadtbefestigung der Stadt. Seinen Namen erhielt es, weil der spätere Reichskanzler Otto von Bismarck während seiner Studienzeit in Göttingen im Jahr 1833 für etwa ein halbes Jahr wohnte. Eine der Göttinger Gedenktafeln erinnert an diese Zeit. Im Turm ist heute ein kleines Museum zu seinem Gedenken eingerichtet, in dem man auch sein Studierzimmer besichtigt kann.",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_5721444c-882e-7b5d-91f7-fade6cf0e276.jpg?alt=media&token=e5dc65d7-a7d0-4cdd-86eb-f5cb7d571790&tr=w-600",
+        "key": "Q7i9yssrBWR8npTw8JYj",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_5721444c-882e-7b5d-91f7-fade6cf0e276.jpg?alt=media&token=e5dc65d7-a7d0-4cdd-86eb-f5cb7d571790&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Dieses Häuschen ist der letzte noch erhaltene Wallturm von 1459 – ein Rest der äußeren Stadtbefestig",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/Q7i9yssrBWR8npTw8JYj&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_5721444c-882e-7b5d-91f7-fade6cf0e276.jpg?alt=media&token=e5dc65d7-a7d0-4cdd-86eb-f5cb7d571790&tr=w-600?tr=w-600,h-600&$og_title=Bismarcks%20Studentenbude&contentDescription=Dieses%20H%C3%A4uschen%20ist%20der%20letzte%20noch%20erhaltene%20Wallturm%20von%201459%20%E2%80%93%20ein%20Rest%20der%20%C3%A4u%C3%9Feren%20Stadtbefestig"
+    },
+    {
+        "downs_count": 0,
+        "geohash": "u1pj4j4xf1",
+        "updatedAt": {
+            "_seconds": 1674521345,
+            "_nanoseconds": 16000000
+        },
+        "visible": "public",
+        "location": {
+            "lat": 51.53271004167021,
+            "long": 9.935165696326237
+        },
+        "visibilityScore": 1,
+        "contentType": "image",
+        "description": "Das Gänseliesel ist eine Hommage an die Gänsemädchen, die damals zum Stadtbild gehörten. Viele dieser Mädchen hießen Elisabeth, darum wurde die Koseform \"Liesel\" zu Ihrer Berufsbezeichnung.\n\nSeit langer Zeit ist es eine feste Tradition, dass die frisch gebackenen Doktoren und Doktorinnen der Georg-August-Universität dem Gänseliesel einen Besuch abstatten. Nach der mündlichen Prüfung, ausgestattet mit einem Doktorhut, werden sie in einem geschmückten Bollerwagen zum Markt gefahren.\n\nHier gilt es, mit sportlichem Einsatz den Brunnen zu erklettern und dem Gänseliesel einen Kuss aufzudrücken. Dafür erhält es als Dankeschön einen Blumenstrauß. Dieser Brauch macht das Gänseliesel zum meistgeküssten Mädchen der Stadt – obwohl es niemals zurück küsst.",
+        "geoContexts": {
+            "en": {
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "postalCode": "",
+                "district": ""
+            },
+            "de": {
+                "district": "",
+                "country": "Deutschland",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "region": "Niedersachsen"
+            }
+        },
+        "bucketlist_count": 1,
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8772992f-b2d7-64b8-c7d0-b06d7705fa35.jpg?alt=media&token=222be784-38bd-469f-9986-9542f625fa86&tr=w-600",
+        "category": {
+            "order": 3,
+            "descriptions": {
+                "en": "Magical places that are not in any travel guide? Yay, give it to me...",
+                "de": "Magische Orte, die in keinem Reiseführer stehen? Yay, her mit den Tipps der Locals..."
+            },
+            "key": "gQSHB7EmxgTSTaRoxT6D",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Locals_List.png?alt=media&token=a67c9baf-9e6a-4375-98f1-d17e39e74df9",
+            "name": "Locals & the City",
+            "names": {
+                "en": "Locals",
+                "de": "Locals"
+            },
+            "id": "gQSHB7EmxgTSTaRoxT6D"
+        },
+        "creator": {
+            "displayName": "mein_goettingen",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "ups_count": 0,
+        "createdAt": {
+            "_seconds": 1674520965,
+            "_nanoseconds": 194000000
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j4",
+            "8": "u1pj4j4x",
+            "9": "u1pj4j4xf"
+        },
+        "name": "Meistgeküssten Mädchen der Stadt",
+        "language": "de",
+        "images": [
+            {
+                "source": "Gänseliesel CC-BY-SA",
+                "height": 2011,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_8772992f-b2d7-64b8-c7d0-b06d7705fa35.jpg?alt=media&token=222be784-38bd-469f-9986-9542f625fa86",
+                "width": 3584
+            }
+        ],
+        "key": "99yYRf2AYwPQ2TLLdq50",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8772992f-b2d7-64b8-c7d0-b06d7705fa35.jpg?alt=media&token=222be784-38bd-469f-9986-9542f625fa86&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Gänseliesel CC-BY-SA",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Das Gänseliesel ist eine Hommage an die Gänsemädchen, die damals zum Stadtbild gehörten. Viele diese",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/99yYRf2AYwPQ2TLLdq50&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_8772992f-b2d7-64b8-c7d0-b06d7705fa35.jpg?alt=media&token=222be784-38bd-469f-9986-9542f625fa86&tr=w-600?tr=w-600,h-600&$og_title=Meistgek%C3%BCssten%20M%C3%A4dchen%20der%20Stadt&contentDescription=Das%20G%C3%A4nseliesel%20ist%20eine%20Hommage%20an%20die%20G%C3%A4nsem%C3%A4dchen,%20die%20damals%20zum%20Stadtbild%20geh%C3%B6rten.%20Viele%20diese"
+    },
+    {
+        "updatedAt": {
+            "_seconds": 1674532235,
+            "_nanoseconds": 544000000
+        },
+        "location": {
+            "lat": 51.53493773362339,
+            "long": 9.928936958312988
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_7e3c5364-5f07-9baf-f437-b40217e0eb4f.jpg?alt=media&token=dad3e58e-d94d-46f1-9e38-b9031a16e7e7&tr=w-600",
+        "description": "Zwei Milliarden Kilometer im Weltall entsprechen einem Kilometer auf dem Planetenweg – das entspricht einer Nachbildung der Sonne und der sie umkreisenden neun Planeten im Maßstab 1:2 Milliarden. Genau genommen sind es nur noch acht, denn Pluto wurde inzwischen ja als Zwergplanet eingestuft. \n\nDer Weg beginnt vor Gebhards Hotel in der Goetheallee und endet am Bismarckturm hoch oben im Hainberg. Bronze-Stelen, die von den Göttinger Künstlern Karin und Reinhold Wittig gestaltet wurden, stellen hierbei die Sonne und die Planeten dar, ebenfalls im selben Maßstab. Doch damit nicht genug: auf jeder Stele liefern Textinfos Wissenswertes zu dem jeweiligen Himmelskörper.",
+        "createdAt": {
+            "_seconds": 1668687240,
+            "_nanoseconds": 836000000
+        },
+        "images": [
+            {
+                "height": 980,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_7e3c5364-5f07-9baf-f437-b40217e0eb4f.jpg?alt=media&token=dad3e58e-d94d-46f1-9e38-b9031a16e7e7",
+                "width": 1978,
+                "source": "Christoph Mischke"
+            },
+            {
+                "height": 958,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_f656d6df-3214-5ce7-e34f-440d19e03db1.jpg?alt=media&token=1fac412d-f1a0-47cd-8225-0fd617d0d8ef",
+                "source": "Christoph Mischke",
+                "width": 1440
+            },
+            {
+                "prio": 1,
+                "alt": "Planetenweg",
+                "longitude": 9.92893695831299,
+                "latitude": 51.5349377336234,
+                "width": 6000,
+                "type": "image/jpeg",
+                "license": "CC-BY-SA",
+                "focusY": 0.4,
+                "focusX": 0.06,
+                "source": "Christoph Mischke",
+                "value": "Planetenweg",
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_983e3675-4b23-4309-8ce5-8c13358d73d6.jpg?alt=media&token=9946fed1-18cc-44ef-bf6d-9fe2d0a44f62",
+                "srcUrl": "https://dam.destination.one/1132513/b23b958856c95be8dbfb5c3410d1575b0c3b509cc1fc7cc58ed5258d49f2e938/planetenweg.jpg",
+                "rel": "default",
+                "height": 4000
+            }
+        ],
+        "downs_count": 0,
+        "geohash": "u1pj1vwhbb",
+        "geoContexts": {
+            "en": {
+                "country": "Germany",
+                "district": "",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "subregion": "Göttingen",
+                "city": "Göttingen"
+            },
+            "de": {
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "country": "Deutschland",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "district": "",
+                "region": "Niedersachsen"
+            }
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1v",
+            "7": "u1pj1vw",
+            "8": "u1pj1vwh",
+            "9": "u1pj1vwhb"
+        },
+        "importDatasetSrcId": "100165370",
+        "bucketlist_count": 1,
+        "visible": "public",
+        "category": {
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Random_List.png?alt=media&token=a3181e3f-199f-4e10-89c6-f81481efa4cf",
+            "names": {
+                "en": "Random",
+                "de": "Verschiedenes"
+            },
+            "name": "Random Stuff",
+            "key": "QUzehPTBFto1NCysIVyq",
+            "order": 9,
+            "descriptions": {
+                "en": "What do I know? Doesn't fit into any category - but is too nice not to share.",
+                "de": "Was weiß ich denn? Passt in keine Kategorie – aber ist auch zu nice, um es nicht zu teilen."
+            },
+            "id": "QUzehPTBFto1NCysIVyq"
+        },
+        "visibilityScore": 1,
+        "importDatasetSrc": "NDS",
+        "language": "de",
+        "name": "Unsere Galaxis zu Fuß",
+        "creator": {
+            "appLanguage": "de",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "displayName": "mein_goettingen",
+            "profiltype": "business",
+            "profilImagePlaceholder": true
+        },
+        "contentType": "image",
+        "ups_count": 2,
+        "key": "M6S4acSCvm3LYZvsQTK7",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_7e3c5364-5f07-9baf-f437-b40217e0eb4f.jpg?alt=media&token=dad3e58e-d94d-46f1-9e38-b9031a16e7e7&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Zwei Milliarden Kilometer im Weltall entsprechen einem Kilometer auf dem Planetenweg – das entsprich",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/M6S4acSCvm3LYZvsQTK7&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_7e3c5364-5f07-9baf-f437-b40217e0eb4f.jpg?alt=media&token=dad3e58e-d94d-46f1-9e38-b9031a16e7e7&tr=w-600?tr=w-600,h-600&$og_title=Unsere%20Galaxis%20zu%20Fu%C3%9F&contentDescription=Zwei%20Milliarden%20Kilometer%20im%20Weltall%20entsprechen%20einem%20Kilometer%20auf%20dem%20Planetenweg%20%E2%80%93%20das%20entsprich"
+    },
+    {
+        "description": "Auf den Spuren der Franziskaner, Juden und alten Ratsherren führt die Underground Führung der Touristen Information durch die Keller Göttingens. Mein Highlight war die alte Heizung im Rathaus. Hier wurden früher die Steine erhitzt, damit durch die Löcher die warme Luft direkt unter den Kittel der Ratsherren ziehen konnte, die direkt darüber saßen und somit jeder einen warmen Popo hatte.",
+        "category": {
+            "descriptions": {
+                "en": "Finally space to smartass: with facts & places from the past.",
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit."
+            },
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "names": {
+                "en": "Long Ago",
+                "de": "Zeitreise"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a",
+            "order": 7,
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "name": "Once upon a Time"
+        },
+        "createdAt": {
+            "_seconds": 1670087162,
+            "_nanoseconds": 916000000
+        },
+        "contentType": "image",
+        "ups_count": 1,
+        "updatedAt": {
+            "_seconds": 1672335509,
+            "_nanoseconds": 311000000
+        },
+        "geoContexts": {
+            "en": {
+                "district": "",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "postalCode": "",
+                "isoCountryCode": "DE",
+                "country": "Germany",
+                "region": "Lower Saxony"
+            },
+            "de": {
+                "region": "Niedersachsen",
+                "country": "Deutschland",
+                "district": "",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "subregion": "Göttingen"
+            }
+        },
+        "images": [
+            {
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_12480269-4b3c-474a-8360-ca4ce3eb6418.jpg?alt=media&token=6bba1794-10dc-4202-8161-3bfef9f047ba",
+                "height": 1024,
+                "width": 768
+            },
+            {
+                "height": 1024,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_ed8aab46-a02e-48ad-9912-0c8dabbdcbbe.jpg?alt=media&token=10eb4cf4-c88b-4494-9cab-b8f64122e91e",
+                "width": 768
+            },
+            {
+                "height": 1024,
+                "width": 768,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_0635fa3a-abc6-4a55-b875-333cbad12ff9.jpg?alt=media&token=d2aef8d8-1444-469d-a5da-58377410ccd2"
+            },
+            {
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_4046d405-d6c0-4051-bf56-b604dfb4faba.jpg?alt=media&token=6a215d01-5e17-4138-b316-7caaccfa958c",
+                "height": 1024,
+                "width": 768
+            },
+            {
+                "height": 1024,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_2de94796-65ab-4277-92cb-d8a54ec143c6.jpg?alt=media&token=398d4c34-1a26-4498-97d5-91ad9e678bb3",
+                "width": 768
+            }
+        ],
+        "name": "Die frühere Po Heizung der Ratsherren 🔥",
+        "bucketlist_count": 1,
+        "creator": {
+            "displayName": "joeshke",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2"
+        },
+        "visibilityScore": 0.7000000000000002,
+        "geohash": "u1pj4j60mx",
+        "language": "de",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j6",
+            "8": "u1pj4j60",
+            "9": "u1pj4j60m"
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_12480269-4b3c-474a-8360-ca4ce3eb6418.jpg",
+        "downs_count": 0,
+        "visible": "public",
+        "location": {
+            "lat": 51.53282940980604,
+            "long": 9.934628270566463
+        },
+        "key": "bStWcjOvRdUS5Ty5XhN8",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_12480269-4b3c-474a-8360-ca4ce3eb6418.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "Auf den Spuren der Franziskaner, Juden und alten Ratsherren führt die Underground Führung der Touris",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/bStWcjOvRdUS5Ty5XhN8&$og_image_url=https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_12480269-4b3c-474a-8360-ca4ce3eb6418.jpg?tr=w-600,h-600&$og_title=Die%20fr%C3%BChere%20Po%20Heizung%20der%20Ratsherren%20%F0%9F%94%A5&contentDescription=Auf%20den%20Spuren%20der%20Franziskaner,%20Juden%20und%20alten%20Ratsherren%20f%C3%BChrt%20die%20Underground%20F%C3%BChrung%20der%20Touris"
+    },
+    {
+        "name": "Zentrum des Lebens☀️",
+        "description": "Das Planetensystem kann man nicht innerhalb eines Nachmittages erkunden? Wetten doch ?! 2 Milliarden km entsprechen einem km auf dem Planetenweg. Schnapp beim Kiosk ein kühles und erkunde das Sonnensystem quer durch die Innenstadt bis zum Bismarckturm.",
+        "geoContexts": {
+            "en": {
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "region": "Lower Saxony",
+                "district": "",
+                "country": "Germany",
+                "postalCode": ""
+            },
+            "de": {
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "country": "Deutschland",
+                "postalCode": "",
+                "region": "Niedersachsen",
+                "district": ""
+            }
+        },
+        "contentType": "image",
+        "geohash": "u1pj1vwhbb",
+        "language": "de",
+        "updatedAt": {
+            "_seconds": 1668702802,
+            "_nanoseconds": 486000000
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1v",
+            "7": "u1pj1vw",
+            "8": "u1pj1vwh",
+            "9": "u1pj1vwhb"
+        },
+        "downs_count": 0,
+        "ups_count": 1,
+        "bucketlist_count": 0,
+        "createdAt": {
+            "_seconds": 1655479911,
+            "_nanoseconds": 0
+        },
+        "visible": "public",
+        "visibilityScore": 0.5,
+        "creator": {
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "displayName": "joeshke"
+        },
+        "images": [
+            {
+                "width": 1024,
+                "height": 875,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_d245cbda-68c0-441d-b516-ad90237cfdd5.jpg?alt=media&token=699890c8-e883-4432-b013-7f5343156920"
+            }
+        ],
+        "location": {
+            "long": 9.928936958312988,
+            "lat": 51.53493773362339
+        },
+        "category": {
+            "order": 4,
+            "descriptions": {
+                "en": "Is that art or can it go? Unimportant, art is always in the eye of the beholder.",
+                "de": "Ist das Kunst oder kann das Weg? Unwichtig, Kunst liegt ja immer im Auge des Betrachters."
+            },
+            "id": "j6yNatvU1ss8lH0P28V0",
+            "key": "j6yNatvU1ss8lH0P28V0",
+            "name": "It's Art, B****!",
+            "names": {
+                "de": "It's Art",
+                "en": "It's Art"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Art_List.png?alt=media&token=ca569137-dd37-47ba-a966-3ef28b08c1f8"
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_d245cbda-68c0-441d-b516-ad90237cfdd5.jpg",
+        "key": "EJoU3T6OxKStnFhtP2RB",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_d245cbda-68c0-441d-b516-ad90237cfdd5.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "Das Planetensystem kann man nicht innerhalb eines Nachmittages erkunden? Wetten doch ?! 2 Milliarden",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/EJoU3T6OxKStnFhtP2RB&$og_image_url=https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_d245cbda-68c0-441d-b516-ad90237cfdd5.jpg?tr=w-600,h-600&$og_title=Zentrum%20des%20Lebens%E2%98%80%EF%B8%8F&contentDescription=Das%20Planetensystem%20kann%20man%20nicht%20innerhalb%20eines%20Nachmittages%20erkunden?%20Wetten%20doch%20?!%202%20Milliarden"
+    },
+    {
+        "description": "Das absolut beste Schnitzel in der Umgebung bekommt man hier beim Bullerjahn. Für den auswärtigen Besucher empfiehlt sich die Stange Bier zum probieren 🍺.",
+        "location": {
+            "long": 9.934968921285616,
+            "lat": 51.53278371744426
+        },
+        "visibilityScore": 0.5,
+        "visible": "public",
+        "type": "image",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/D43F38CF-B6B2-4327-8E2B-394310CC2D66.jpg",
+        "ups_count": 4,
+        "category": {
+            "order": 5,
+            "name": "Oh, it's yummy",
+            "selected": true,
+            "descriptions": {
+                "de": "Num... so lecker. Kulinarisches & wissenswertes über köstliche Dinge in der Umgebung.",
+                "en": "Num... so delicious. Culinary & worth knowing about delicious things in the area."
+            },
+            "key": "oBszLXdbgp8x1LRcdSXx",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Yummy_List.png?alt=media&token=d4cebd31-3928-4f37-bd74-2beda7497266",
+            "id": "oBszLXdbgp8x1LRcdSXx"
+        },
+        "creator": {
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "displayName": "joeshke"
+        },
+        "geohash": "u1pj4j62jx",
+        "name": "Perfektes Wienerschitzel 👌 🇦🇹approved ",
+        "community": {
+            "id": "DwWMxL1ETvHRNkTUbilK",
+            "name": "Eat. Drink. Love."
+        },
+        "contentType": "image",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4j6",
+            "8": "u1pj4j62",
+            "9": "u1pj4j62j"
+        },
+        "createdAt": {
+            "_seconds": 1654262299,
+            "_nanoseconds": 114000000
+        },
+        "private": false,
+        "language": "de",
+        "key": "rfUBfu8d4PvEdUbiItbL",
+        "downs_count": 0,
+        "images": [
+            {
+                "width": 864,
+                "uri": "file:///var/mobile/Containers/Data/Application/74F6219A-AA15-4BA6-A91F-B2C116B58400/Library/Caches/ReactNative_cropped_image_/51C3E1D5-1872-4802-AFCA-01726CBD9D8F.jpg",
+                "blurhash": "UALV,4AL5cT{0;M^MeM|4u}*J$nT4@D+ROjD",
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FD43F38CF-B6B2-4327-8E2B-394310CC2D66.jpg?alt=media&token=2d84703c-bffb-4ca5-965a-8c3aa5c39864",
+                "height": 1080
+            },
+            {
+                "height": 768,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_c1c8977a-19ba-4aee-8e81-88959b398ec2.jpg?alt=media&token=d4bf2a5e-6f81-4966-8cd1-b7faa1110f63",
+                "width": 1024,
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_c1c8977a-19ba-4aee-8e81-88959b398ec2.jpg"
+            },
+            {
+                "height": 1024,
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_8e11a424-3030-4119-91cf-37cb23f7792a.jpg",
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_8e11a424-3030-4119-91cf-37cb23f7792a.jpg?alt=media&token=9f0ce2fa-77d5-4241-ac7b-7885eea21c2c",
+                "width": 768
+            }
+        ],
+        "bucketlist_count": 3,
+        "geoContexts": {
+            "de": {
+                "country": "Deutschland",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "region": "Niedersachsen",
+                "subregion": "Göttingen",
+                "district": "",
+                "postalCode": ""
+            },
+            "en": {
+                "subregion": "Göttingen",
+                "district": "",
+                "country": "Germany",
+                "city": "Göttingen",
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "isoCountryCode": "DE"
+            }
+        },
+        "updatedAt": {
+            "_seconds": 1673609725,
+            "_nanoseconds": 351000000
+        },
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/D43F38CF-B6B2-4327-8E2B-394310CC2D66.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "Das absolut beste Schnitzel in der Umgebung bekommt man hier beim Bullerjahn. Für den auswärtigen Be",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/rfUBfu8d4PvEdUbiItbL&$og_image_url=https://ik.imagekit.io/urbnups/spots/D43F38CF-B6B2-4327-8E2B-394310CC2D66.jpg?tr=w-600,h-600&$og_title=Perfektes%20Wienerschitzel%20%F0%9F%91%8C%20%F0%9F%87%A6%F0%9F%87%B9approved%20&contentDescription=Das%20absolut%20beste%20Schnitzel%20in%20der%20Umgebung%20bekommt%20man%20hier%20beim%20Bullerjahn.%20F%C3%BCr%20den%20ausw%C3%A4rtigen%20Be"
+    },
+    {
+        "contentType": "image",
+        "category": {
+            "order": 7,
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "name": "Once upon a Time",
+            "descriptions": {
+                "en": "Finally space to smartass: with facts & places from the past.",
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit."
+            },
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "names": {
+                "en": "Long Ago",
+                "de": "Zeitreise"
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a"
+        },
+        "downs_count": 0,
+        "geohash": "u1pj1vs608",
+        "ups_count": 0,
+        "visibilityScore": 0.30000000000000016,
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_540ea6c2-ca48-4996-9f97-b8807224e5e2.jpg",
+        "visible": "public",
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97",
+            "displayName": "joeshke",
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2"
+        },
+        "geoContexts": {
+            "en": {
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "region": "Lower Saxony",
+                "subregion": "Göttingen",
+                "city": "Göttingen",
+                "district": "",
+                "country": "Germany"
+            },
+            "de": {
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "country": "Deutschland",
+                "district": "",
+                "subregion": "Göttingen",
+                "city": "Göttingen",
+                "region": "Niedersachsen"
+            }
+        },
+        "updatedAt": {
+            "_seconds": 1673088880,
+            "_nanoseconds": 901000000
+        },
+        "createdAt": {
+            "_seconds": 1673024226,
+            "_nanoseconds": 456000000
+        },
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1v",
+            "7": "u1pj1vs",
+            "8": "u1pj1vs6",
+            "9": "u1pj1vs60"
+        },
+        "images": [
+            {
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_540ea6c2-ca48-4996-9f97-b8807224e5e2.jpg?alt=media&token=430e30e9-0f2c-41ee-9960-b454d9419e34",
+                "width": 1024,
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_540ea6c2-ca48-4996-9f97-b8807224e5e2.jpg",
+                "height": 768
+            },
+            {
+                "width": 768,
+                "height": 1024,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_6bfab8cb-770f-4c8e-99f3-0e8baf060ea8.jpg?alt=media&token=f4a631f0-dbbd-46b2-bfcd-2c04142843fa",
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_6bfab8cb-770f-4c8e-99f3-0e8baf060ea8.jpg"
+            },
+            {
+                "width": 1024,
+                "height": 768,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_05c48208-ef72-438b-b00b-46716f0516a3.jpg?alt=media&token=4411b80e-d6dd-405b-97b9-a306885b2055",
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_05c48208-ef72-438b-b00b-46716f0516a3.jpg"
+            },
+            {
+                "fileName": "MG9ciKTyX0aEkZGXUVyRkm9tROr2_0b310823-edc0-4f20-84bc-16948b9a6144.jpg",
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FMG9ciKTyX0aEkZGXUVyRkm9tROr2_0b310823-edc0-4f20-84bc-16948b9a6144.jpg?alt=media&token=cec3f395-ed44-4807-9def-04dee7e23051",
+                "height": 1024,
+                "width": 768
+            }
+        ],
+        "location": {
+            "long": 9.926514923572539,
+            "lat": 51.534464938665494
+        },
+        "bucketlist_count": 3,
+        "name": "Eintauchen in die Faszination Wissenschaft 🧠",
+        "description": "Durch ein spannendes Konzept lässt sich hier die Wissenschaft auf moderne Art erleben und teils neues über Göttingen lernen. In einem futuristische Raum taucht man in eine Diskussion über den Zustand unserer Wälder ein. Toll dass das Ganze kostenlos angeboten wird und somit immer mal besucht werden kann.",
+        "language": "de",
+        "key": "BIL9KGzDBqZ5co526aeu",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_540ea6c2-ca48-4996-9f97-b8807224e5e2.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "Durch ein spannendes Konzept lässt sich hier die Wissenschaft auf moderne Art erleben und teils neue",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/BIL9KGzDBqZ5co526aeu&$og_image_url=https://ik.imagekit.io/urbnups/spots/MG9ciKTyX0aEkZGXUVyRkm9tROr2_540ea6c2-ca48-4996-9f97-b8807224e5e2.jpg?tr=w-600,h-600&$og_title=Eintauchen%20in%20die%20Faszination%20Wissenschaft%20%F0%9F%A7%A0&contentDescription=Durch%20ein%20spannendes%20Konzept%20l%C3%A4sst%20sich%20hier%20die%20Wissenschaft%20auf%20moderne%20Art%20erleben%20und%20teils%20neue"
+    },
+    {
+        "updatedAt": {
+            "_seconds": 1674524533,
+            "_nanoseconds": 16000000
+        },
+        "moreInformation": {
+            "web": "https://luisenhall.de/",
+            "phone": "+49 551 3 84 87 0"
+        },
+        "category": {
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "name": "Once upon a Time",
+            "descriptions": {
+                "en": "Finally space to smartass: with facts & places from the past.",
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit."
+            },
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a",
+            "names": {
+                "en": "Long Ago",
+                "de": "Zeitreise"
+            },
+            "order": 7
+        },
+        "creator": {
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "displayName": "mein_goettingen",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2"
+        },
+        "images": [
+            {
+                "selected": true,
+                "longitude": 9.9004687,
+                "prio": 1,
+                "type": "image/jpeg",
+                "height": 2357,
+                "focusX": -0.34,
+                "source": "Göttingen Tourismus und Marketing, Christoph Mischke",
+                "alt": "Saline Luisenhall",
+                "uploaded": true,
+                "firebaseImageUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_055abb8f-e49c-4afc-8f2d-4ef767fbc901.jpg?alt=media&token=5b58eb51-3962-4f60-9c91-84b17c2cd13f",
+                "latitude": 51.5370593,
+                "value": "Saline Luisenhall",
+                "srcUrl": "https://dam.destination.one/1130895/afdf37c82d0c6cdf734453bd1b6d66af624b943a6b7ded8fa105e85de2b999e5/saline-luisenhall.jpg",
+                "rel": "default",
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_055abb8f-e49c-4afc-8f2d-4ef767fbc901.jpg?alt=media&token=5b58eb51-3962-4f60-9c91-84b17c2cd13f",
+                "license": "CC-BY-SA",
+                "focusY": 0.4,
+                "width": 3543
+            }
+        ],
+        "ups_count": 0,
+        "downs_count": 0,
+        "bucketlist_count": 2,
+        "importDatasetSrc": "NDS",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_055abb8f-e49c-4afc-8f2d-4ef767fbc901.jpg?alt=media&token=5b58eb51-3962-4f60-9c91-84b17c2cd13f&tr=w-600",
+        "geoContexts": {
+            "en": {
+                "isoCountryCode": "DE",
+                "region": "Lower Saxony",
+                "postalCode": "",
+                "city": "Göttingen",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "district": ""
+            },
+            "de": {
+                "country": "Deutschland",
+                "region": "Niedersachsen",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "district": "",
+                "city": "Göttingen",
+                "subregion": "Göttingen"
+            }
+        },
+        "name": "Lebendiges Industriedenkmal",
+        "geohash": "u1pj1qnnuh",
+        "importDatasetSrcId": "100165440",
+        "location": {
+            "lat": 51.53804695621161,
+            "long": 9.907093756266784
+        },
+        "language": "de",
+        "visibilityScore": 0.30000000000000016,
+        "createdAt": {
+            "_seconds": 1671633926,
+            "_nanoseconds": 328000000
+        },
+        "description": "In Europa ist die Saline Luisenhall die einzige, die noch in alter Technik Salz aus natürlicher Sole produziert.\n\nAnhand der Vegetation erahnte ein Göttinger in der Mitte des 19. Jahrhunderts, dass das Erdreich an dieser Stelle besonders salzreich ist. Diese Vermutung bestätigte er anhand von Probebohrungen. In knapp 462 Metern Tiefe stieß er auf Salz. Daraufhin gründete er 1850 die Saline. Noch heute ist es möglich, einen direkten Einblick in die Arbeit vor Ort zu erhalten, denn die Saline ist ein lebendiges Industriedenkmal.",
+        "visible": "public",
+        "contentType": "image",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1q",
+            "7": "u1pj1qn",
+            "8": "u1pj1qnn",
+            "9": "u1pj1qnnu"
+        },
+        "key": "koEU0ZeBwSF26nC4E7Xx",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_055abb8f-e49c-4afc-8f2d-4ef767fbc901.jpg?alt=media&token=5b58eb51-3962-4f60-9c91-84b17c2cd13f&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "In Europa ist die Saline Luisenhall die einzige, die noch in alter Technik Salz aus natürlicher Sole",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/koEU0ZeBwSF26nC4E7Xx&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_055abb8f-e49c-4afc-8f2d-4ef767fbc901.jpg?alt=media&token=5b58eb51-3962-4f60-9c91-84b17c2cd13f&tr=w-600?tr=w-600,h-600&$og_title=Lebendiges%20Industriedenkmal&contentDescription=In%20Europa%20ist%20die%20Saline%20Luisenhall%20die%20einzige,%20die%20noch%20in%20alter%20Technik%20Salz%20aus%20nat%C3%BCrlicher%20Sole"
+    },
+    {
+        "bucketlist_count": 2,
+        "createdAt": {
+            "_seconds": 1650047488,
+            "_nanoseconds": 0
+        },
+        "visibilityScore": 0.30000000000000016,
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_37516058-3b6f-42aa-b60a-71f25962e572.jpg",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4u",
+            "7": "u1pj4u5",
+            "8": "u1pj4u5u",
+            "9": "u1pj4u5u4"
+        },
+        "visible": "public",
+        "downs_count": 0,
+        "name": "Bismarckturm",
+        "importDatasetSrc": "NDS",
+        "category": {
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Time_List.png?alt=media&token=81c1048f-6ae0-47f1-9c29-3a9cf5e6e08a",
+            "name": "Once upon a Time",
+            "key": "zuXxGv8i8MFFg6Bejh7j",
+            "names": {
+                "de": "Zeitreise",
+                "en": "Long Ago"
+            },
+            "id": "zuXxGv8i8MFFg6Bejh7j",
+            "order": 7,
+            "descriptions": {
+                "en": "Finally space to smartass: with facts & places from the past.",
+                "de": "Endlich Platz zum klugscheissen: mit Fakten & Orten aus der Vergangenheit."
+            }
+        },
+        "language": "de",
+        "ups_count": 0,
+        "creator": {
+            "profilImagePlaceholder": true,
+            "displayName": "mein_goettingen",
+            "profiltype": "business",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "appLanguage": "de"
+        },
+        "description": "Der Göttinger Verschönerungsverein plante den Bau in den 1880er Jahren. Noch während des Baus entschied sich der Verein, den Turm nach dem ehemaligen Reichskanzler Otto von Bismarck zu benennen.",
+        "geoContexts": {
+            "de": {
+                "district": "",
+                "region": "Niedersachsen",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "postalCode": "",
+                "country": "Deutschland",
+                "subregion": "Göttingen"
+            },
+            "en": {
+                "region": "Lower Saxony",
+                "district": "",
+                "country": "Germany",
+                "postalCode": "",
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "subregion": "Göttingen"
+            }
+        },
+        "contentType": "image",
+        "geohash": "u1pj4u5u4z",
+        "importDatasetSrcId": "100165449",
+        "location": {
+            "lat": 51.5266079,
+            "long": 9.9698678
+        },
+        "images": [
+            {
+                "srcUrl": "https://dam.destination.one/1130926/449b0cb89c5735e0ae6cb145b384c026313c31887d29e0b9ae079701002c62a5/bismarckturm.jpg",
+                "alt": "Bismarckturm",
+                "width": 3543,
+                "focusX": 0.3,
+                "source": "Göttingen Tourismus und Marketing, Christoph Mischke",
+                "license": "CC-BY-SA",
+                "prio": 1,
+                "longitude": 9.97027777777778,
+                "type": "image/jpeg",
+                "latitude": 51.5263888888889,
+                "rel": "default",
+                "height": 2357,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_37516058-3b6f-42aa-b60a-71f25962e572.jpg?alt=media&token=0fb3e9fc-0147-4c7e-9574-0557a94e9980",
+                "focusY": -0.2,
+                "value": "Bismarckturm"
+            }
+        ],
+        "key": "ze97V6ar8BHgTLu8bsEE",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_37516058-3b6f-42aa-b60a-71f25962e572.jpg?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Der Göttinger Verschönerungsverein plante den Bau in den 1880er Jahren. Noch während des Baus entsch",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/ze97V6ar8BHgTLu8bsEE&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_37516058-3b6f-42aa-b60a-71f25962e572.jpg?tr=w-600,h-600&$og_title=Bismarckturm&contentDescription=Der%20G%C3%B6ttinger%20Versch%C3%B6nerungsverein%20plante%20den%20Bau%20in%20den%201880er%20Jahren.%20Noch%20w%C3%A4hrend%20des%20Baus%20entsch"
+    },
+    {
+        "importDatasetSrc": "NDS",
+        "name": "Der Geist von Gauß: die historische Sternwarte",
+        "geohash": "u1pj4k82s0",
+        "visibilityScore": 0.20000000000000007,
+        "importDatasetSrcId": "100165346",
+        "location": {
+            "lat": 51.52871175,
+            "long": 9.943143257650576
+        },
+        "bucketlist_count": 2,
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4k",
+            "7": "u1pj4k8",
+            "8": "u1pj4k82",
+            "9": "u1pj4k82s"
+        },
+        "downs_count": 0,
+        "description": "Demjenigen, der es auf eine Briefmarke oder einen Geldschein geschafft hat, darf man wohl eine gewisse Berühmtheit bescheinigen. Dem Mathematiker, Astronomen und Physiker Carl Friedrich Gauß ist beides gelungen.\n\nSeine Forschungs- und Wohnstätte, die historische Göttinger Sternwarte, wurde auf dem alten 10-D-Mark-Schein verewigt. Gauß wurde 1807 an die Georg-August-Universität berufen und damit erster Direktor der „neuen“ Sternwarte. Hier hat er bis zu seinem Tod am 23. Februar 1855 gelebt und gearbeitet hat. Im Rahmen von Stadtführungen könnt ihr euch dieses einmalige Bauwerk der Wissenschaftsgeschichte ansehen und euch auf seine Spuren begeben.",
+        "creator": {
+            "displayName": "mein_goettingen",
+            "profilImagePlaceholder": true,
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "appLanguage": "de",
+            "profiltype": "business"
+        },
+        "visible": "public",
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_49876018-eb72-4d23-9256-d078385935ad.jpg?alt=media&token=537b3633-b201-4d52-b375-67901fb7019b&tr=w-600",
+        "moreInformation": {
+            "phone": "+49 551 39-24763 ",
+            "web": "https://www.uni-goettingen.de/de/125326.html"
+        },
+        "geoContexts": {
+            "de": {
+                "district": "",
+                "isoCountryCode": "DE",
+                "country": "Deutschland",
+                "region": "Niedersachsen",
+                "postalCode": "",
+                "city": "Göttingen",
+                "subregion": "Göttingen"
+            },
+            "en": {
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "country": "Germany",
+                "postalCode": "",
+                "district": "",
+                "isoCountryCode": "DE",
+                "region": "Lower Saxony"
+            }
+        },
+        "ups_count": 0,
+        "contentType": "image",
+        "updatedAt": {
+            "_seconds": 1674520136,
+            "_nanoseconds": 728000000
+        },
+        "language": "de",
+        "createdAt": {
+            "_seconds": 1655317974,
+            "_nanoseconds": 0
+        },
+        "images": [
+            {
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_49876018-eb72-4d23-9256-d078385935ad.jpg?alt=media&token=537b3633-b201-4d52-b375-67901fb7019b",
+                "height": 1414,
+                "source": "Göttingen Tourismus und Marketing / Mischke",
+                "width": 2126
+            },
+            {
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_28e82ce9-4570-0564-5d0b-28b00e37e68d.jpg?alt=media&token=0fbe543e-8b78-4772-9b57-b6d5a78053ba",
+                "height": 1415,
+                "source": "Göttingen Tourismus und Marketing / Mischke",
+                "width": 2126
+            },
+            {
+                "width": 1772,
+                "url": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_e64c01d5-65ef-2130-2a80-44c90c0acc09.jpg?alt=media&token=1bad970a-3b7f-46ae-8100-367098442170",
+                "source": "Göttingen Tourismus und Marketing / Mischke",
+                "height": 1181
+            }
+        ],
+        "category": {
+            "key": "UraTDxxeh6URxEPR0SXc",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Architecture_List.png?alt=media&token=e106cf06-7bd7-4509-ad75-b8caeb53e2a2",
+            "descriptions": {
+                "en": "From statues to huge skyscrapers, everything about whimsical & aesthetic buildings.",
+                "de": "Von Statuen bis zu riesigen Wolkenkratzern, einfach alles zu skurrilen & ästhetischen Bauten."
+            },
+            "order": 8,
+            "name": "Awesome Architecture",
+            "names": {
+                "de": "Architektur",
+                "en": "Architecture"
+            },
+            "id": "UraTDxxeh6URxEPR0SXc"
+        },
+        "key": "qDM8OkGslNwpFLAEsRrB",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_49876018-eb72-4d23-9256-d078385935ad.jpg?alt=media&token=537b3633-b201-4d52-b375-67901fb7019b&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing / Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Demjenigen, der es auf eine Briefmarke oder einen Geldschein geschafft hat, darf man wohl eine gewis",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/qDM8OkGslNwpFLAEsRrB&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_49876018-eb72-4d23-9256-d078385935ad.jpg?alt=media&token=537b3633-b201-4d52-b375-67901fb7019b&tr=w-600?tr=w-600,h-600&$og_title=Der%20Geist%20von%20Gau%C3%9F:%20die%20historische%20Sternwarte&contentDescription=Demjenigen,%20der%20es%20auf%20eine%20Briefmarke%20oder%20einen%20Geldschein%20geschafft%20hat,%20darf%20man%20wohl%20eine%20gewis"
+    },
+    {
+        "community": {
+            "name": "Eat. Drink. Love.",
+            "id": "DwWMxL1ETvHRNkTUbilK"
+        },
+        "geohash": "u1pj4jdfrm",
+        "type": "image",
+        "contentType": "image",
+        "visible": "public",
+        "ups_count": 9,
+        "downs_count": 1,
+        "language": "de",
+        "visibilityScore": 0.20000000000000007,
+        "category": {
+            "_ref": {
+                "id": "oBszLXdbgp8x1LRcdSXx",
+                "path": "categories/oBszLXdbgp8x1LRcdSXx"
+            },
+            "descriptions": {
+                "de": "Num... so lecker. Kulinarisches & wissenswertes über köstliche Dinge in der Umgebung.",
+                "en": "Num... so delicious. Culinary & worth knowing about delicious things in the area."
+            },
+            "name": "Oh, it's yummy",
+            "id": "oBszLXdbgp8x1LRcdSXx",
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Furbnups_Icon_Yummy.png?alt=media&token=399689f7-bf0e-4ad2-8cde-8b8a98cb9ffc",
+            "key": "oBszLXdbgp8x1LRcdSXx"
+        },
+        "location": {
+            "long": 9.935731540783365,
+            "lat": 51.53453621036351
+        },
+        "updatedAt": {
+            "_seconds": 1642444741,
+            "_nanoseconds": 242000000
+        },
+        "name": "Ausgezeichnete 🍹 und phänomenales Essen",
+        "createdAt": {
+            "_seconds": 1642444741,
+            "_nanoseconds": 242000000
+        },
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/649136FE-7091-458F-9FA7-E59B91592EFB.jpg",
+        "bucketlist_count": 0,
+        "description": "",
+        "geoContexts": {
+            "en": {
+                "region": "Lower Saxony",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "district": "Innenstadt",
+                "postalCode": "37073"
+            },
+            "de": {
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "subregion": "Göttingen",
+                "district": "Innenstadt",
+                "country": "Deutschland",
+                "region": "Niedersachsen",
+                "postalCode": "37073"
+            }
+        },
+        "creator": {
+            "uid": "MG9ciKTyX0aEkZGXUVyRkm9tROr2",
+            "displayName": "joeshke",
+            "profilImageUri": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/users%2Fjoeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97"
+        },
+        "images": [
+            {
+                "uri": "file:///var/mobile/Containers/Data/Application/C021B949-1A6A-45E5-A930-BF0E7501DAFD/Library/Caches/ReactNative_cropped_image_/BE383C3C-26CA-448C-A30E-9204A96F2BBC.jpg",
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2F649136FE-7091-458F-9FA7-E59B91592EFB.jpg?alt=media&token=64c24fb7-691d-4bd4-bee1-6b382594c7b1",
+                "height": 1080,
+                "width": 1080
+            }
+        ],
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj4",
+            "6": "u1pj4j",
+            "7": "u1pj4jd",
+            "8": "u1pj4jdf",
+            "9": "u1pj4jdfr"
+        },
+        "key": "UnnVfi2c0qzm0s6InWWb",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/649136FE-7091-458F-9FA7-E59B91592EFB.jpg?tr=w-600,h-600",
+        "previewImageCredit": "",
+        "userPreviewImage": "https://ik.imagekit.io/urbnups/users/joeshke_010690d1-8e35-4820-ba59-c38928f50a21.jpg?alt=media&token=73cd0c22-92e8-4559-820b-6e7eb3ec8b97&tr=w-80",
+        "description_snippet": "",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/UnnVfi2c0qzm0s6InWWb&$og_image_url=https://ik.imagekit.io/urbnups/spots/649136FE-7091-458F-9FA7-E59B91592EFB.jpg?tr=w-600,h-600&$og_title=Ausgezeichnete%20%F0%9F%8D%B9%20und%20ph%C3%A4nomenales%20Essen&contentDescription="
+    },
+    {
+        "thumbnail": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_14ec9e07-d381-46b3-ae14-fded06d9379a.jpg?alt=media&token=b9c45c11-d661-4bf4-80b2-bb40902f4d7c&tr=w-600",
+        "ups_count": 0,
+        "language": "de",
+        "geohash": "u1pj1uvunc",
+        "location": {
+            "long": 9.928851127624512,
+            "lat": 51.53069303946948
+        },
+        "bucketlist_count": 0,
+        "visible": "public",
+        "importDatasetSrc": "NDS",
+        "geohashes": {
+            "1": "u",
+            "2": "u1",
+            "3": "u1p",
+            "4": "u1pj",
+            "5": "u1pj1",
+            "6": "u1pj1u",
+            "7": "u1pj1uv",
+            "8": "u1pj1uvu",
+            "9": "u1pj1uvun"
+        },
+        "downs_count": 0,
+        "geoContexts": {
+            "en": {
+                "district": "",
+                "postalCode": "",
+                "isoCountryCode": "DE",
+                "city": "Göttingen",
+                "country": "Germany",
+                "subregion": "Göttingen",
+                "region": "Lower Saxony"
+            },
+            "de": {
+                "subregion": "Göttingen",
+                "country": "Deutschland",
+                "city": "Göttingen",
+                "isoCountryCode": "DE",
+                "region": "Niedersachsen",
+                "district": "",
+                "postalCode": ""
+            }
+        },
+        "importDatasetSrcId": "100165350",
+        "visibilityScore": 0.09999999999999998,
+        "updatedAt": {
+            "_seconds": 1674522140,
+            "_nanoseconds": 888000000
+        },
+        "category": {
+            "order": 1,
+            "iconUrl": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/categories%2Fneu%2Furbnups_Greens_List.png?alt=media&token=20d7e72f-1dbb-4a56-b96f-3651f4fc7cdf",
+            "key": "5cY3PuSArDDdq6hmqvCk",
+            "id": "5cY3PuSArDDdq6hmqvCk",
+            "name": "City Oases",
+            "names": {
+                "en": "City Oases",
+                "de": "City Oases"
+            },
+            "descriptions": {
+                "en": "If you don't have a garden, you'll just have to find one. So many \"green places\" in the middle of urban chaos!",
+                "de": "Wer keinen Garten hat, sucht sich eben einen. So viele „grüne Orte“ mitten im urbanen Chaos!\n"
+            }
+        },
+        "contentType": "image",
+        "description": "Der beliebte Promenadenweg rund um die Altstadt gehört zu den Resten der 1362 bis 1577 angelegten Stadtbefestigung Göttingens.\n\nNach dem Abbruch der Stadtmauern wurde der Stadtwall 1763 mit Linden bepflanzt. Von der Originalbepflanzung existiert nur noch eine Sommerlinde, ihr Alter wird auf über 250 Jahre geschätzt (Wallabschnitt zwischen Angerstraße und Lohmühlenweg).",
+        "images": [
+            {
+                "rel": "default",
+                "prio": 1,
+                "url": "https://firebasestorage.googleapis.com:443/v0/b/urbnups.appspot.com/o/spots%2FOd3ZiC4kZLceYP15mM19bc1UZSr2_14ec9e07-d381-46b3-ae14-fded06d9379a.jpg?alt=media&token=b9c45c11-d661-4bf4-80b2-bb40902f4d7c",
+                "longitude": 9.92885112762451,
+                "license": "CC-BY-SA",
+                "focusY": -0.46,
+                "width": 3543,
+                "focusX": -0.13,
+                "height": 2357,
+                "source": "Göttingen Tourismus und Marketing, Christoph Mischke",
+                "value": "Der Wall",
+                "latitude": 51.5306930394695,
+                "srcUrl": "https://dam.destination.one/1130866/1c0598a2cf237f0190c6cf82581923d8e5d2cd3aa60a85361389fdd82a744195/der-wall.jpg",
+                "alt": "Der Wall",
+                "type": "image/jpeg"
+            }
+        ],
+        "createdAt": {
+            "_seconds": 1663306707,
+            "_nanoseconds": 0
+        },
+        "creator": {
+            "createdAt": {
+                "_seconds": 1668530146,
+                "_nanoseconds": 767000000
+            },
+            "profiltype": "business",
+            "uid": "Od3ZiC4kZLceYP15mM19bc1UZSr2",
+            "displayName": "mein_goettingen",
+            "profilImagePlaceholder": true,
+            "appLanguage": "de",
+            "profilImageUri": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90"
+        },
+        "name": "Wall um die Altstadt",
+        "key": "MchtYB5t7zmcTjWDEmiJ",
+        "previewImage": "https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_14ec9e07-d381-46b3-ae14-fded06d9379a.jpg?alt=media&token=b9c45c11-d661-4bf4-80b2-bb40902f4d7c&tr=w-600?tr=w-600,h-600",
+        "previewImageCredit": "Göttingen Tourismus und Marketing, Christoph Mischke",
+        "userPreviewImage": "https://firebasestorage.googleapis.com/v0/b/urbnups.appspot.com/o/users%2Fmein_goettingen_5121baa9-b61e-a029-c83a-7d108bcd1606.jpg?alt=media&token=f95ef878-b1cb-463d-b490-2db3d17b2b90&tr=w-80",
+        "description_snippet": "Der beliebte Promenadenweg rund um die Altstadt gehört zu den Resten der 1362 bis 1577 angelegten St",
+        "deeplink": "https://urbnupsshare.app.link/?$canonical_identifier=spot/MchtYB5t7zmcTjWDEmiJ&$og_image_url=https://ik.imagekit.io/urbnups/spots/Od3ZiC4kZLceYP15mM19bc1UZSr2_14ec9e07-d381-46b3-ae14-fded06d9379a.jpg?alt=media&token=b9c45c11-d661-4bf4-80b2-bb40902f4d7c&tr=w-600?tr=w-600,h-600&$og_title=Wall%20um%20die%20Altstadt&contentDescription=Der%20beliebte%20Promenadenweg%20rund%20um%20die%20Altstadt%20geh%C3%B6rt%20zu%20den%20Resten%20der%201362%20bis%201577%20angelegten%20St"
+    }
+]
