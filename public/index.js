@@ -82,32 +82,26 @@ const css = `
 }`
 
 async function getData() {
-    try {
-        let data = await fetch("http://localhost:3002/api/moments")
-        return data.json();
-    } catch (error) {
-        console.log("error ocuured")
-    }
-
+    let data = await fetch("https://next-api-psi-roan.vercel.app/api/moments")
+    return data.json();
 }
 
 window.addEventListener('DOMContentLoaded', async (event) => {
 
     const arry = await getData()
 
-    if (arry) {
-        let getEle = document.getElementsByTagName("urbnups-moments-widget");
-        getEle = getEle[0];
+    let getEle = document.getElementsByTagName("urbnups-moments-widget");
+    getEle = getEle[0];
 
-        // console.log(getEle.getAttribute("widget-id"))
+    // console.log(getEle.getAttribute("widget-id"))
 
-        const main = document.createElement("div")
-        main.setAttribute("id", 'urbnups-moments-widget');
+    const main = document.createElement("div")
+    main.setAttribute("id", 'urbnups-moments-widget');
 
 
-        for (let i = 0; i < arry.length; i++) {
-            const data = arry[i];
-            var html = `
+    for (let i = 0; i < arry.length; i++) {
+        const data = arry[i];
+        var html = `
    
         <div class="urbnups_moment_creator">
             <a href=${data.deeplink} target='_blank'>
@@ -133,26 +127,26 @@ window.addEventListener('DOMContentLoaded', async (event) => {
          </div>
     `;
 
-            const newdiv = document.createElement('div');
-            newdiv.setAttribute('class', "urbnups_moment");
-            newdiv.innerHTML = html
-            main.appendChild(newdiv)
+        const newdiv = document.createElement('div');
+        newdiv.setAttribute('class', "urbnups_moment");
+        newdiv.innerHTML = html
+        main.appendChild(newdiv)
 
-        }
-
-        var styleNode = document.createElement('style');
-        styleNode.type = "text/css";
-        if (!!(window.attachEvent && !window.opera)) {
-            styleNode.styleSheet.cssText = css;
-        } else {
-            var styleText = document.createTextNode(css);
-            styleNode.appendChild(styleText);
-        }
-        document.getElementsByTagName('head')[0].appendChild(styleNode);
-
-
-
-        getEle.insertAdjacentElement("afterend", main);
-        getEle.remove()
     }
+
+    var styleNode = document.createElement('style');
+    styleNode.type = "text/css";
+    if (!!(window.attachEvent && !window.opera)) {
+        styleNode.styleSheet.cssText = css;
+    } else {
+        var styleText = document.createTextNode(css);
+        styleNode.appendChild(styleText);
+    }
+    document.getElementsByTagName('head')[0].appendChild(styleNode);
+
+
+
+    getEle.insertAdjacentElement("afterend", main);
+    getEle.remove()
+
 });
