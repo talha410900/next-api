@@ -1,6 +1,6 @@
 
 
-const urbnupsCss = `
+const css = `
 #urbnups-moments-widget {
     max-width: 1200px;
     margin: 30px auto;
@@ -134,12 +134,12 @@ const urbnupsCss = `
 `
 
 async function getData(id) {
-    let data = await fetch(`https://next-api-psi-roan.vercel.app/api/moments?widgetId=${id}`)
+    let data = await fetch(`https://embed.urbnups.com/api/moments?widgetId=${id}`)
     return data.json();
 }
 
 
-window.addEventListener('DOMContentLoaded', async (event) => {
+const fetchUrbnups = async () => {
 
     const spinner = document.createElement("div")
     spinner.setAttribute('class', 'spinner')
@@ -151,9 +151,9 @@ window.addEventListener('DOMContentLoaded', async (event) => {
     var styleNode = document.createElement('style');
     styleNode.type = "text/css";
     if (!!(window.attachEvent && !window.opera)) {
-        styleNode.styleSheet.cssText = urbnupsCss;
+        styleNode.styleSheet.cssText = css;
     } else {
-        var styleText = document.createTextNode(urbnupsCss);
+        var styleText = document.createTextNode(css);
         styleNode.appendChild(styleText);
     }
     document.getElementsByTagName('head')[0].appendChild(styleNode);
@@ -184,7 +184,7 @@ window.addEventListener('DOMContentLoaded', async (event) => {
                 <a href=${data.deeplink} target='_blank'>
                 <div>
                 <img  src="${data.userPreviewImage}" >
-                <span> ${data.displayName}</span>
+                <span> ${data.creatorName}</span>
                 </div>
                 </a>
             </div>
@@ -211,21 +211,14 @@ window.addEventListener('DOMContentLoaded', async (event) => {
         }
 
 
-        var googleApi = document.createElement('googleApi');
-        googleApi.type = 'text/css';
-        document.head.appendChild(googleApi);
-        googleApi.href = "https://fonts.googleapis.com";
+        const bangersFont = new FontFace('Poppins', 'url(Poppins-Light.ttf)');
 
-        var preconnect = document.createElement('link');
-        document.head.appendChild(preconnect);
-        preconnect.href = "https://fonts.gstatic.com";
-        preconnect.rel = 'stylesheet'
-        preconnect.origin = 'true'
+        bangersFont.load().then(function (loadedFont) {
+            document.fonts.add(loadedFont)
 
-        var preconnect = document.createElement('link');
-        document.head.appendChild(preconnect);
-        preconnect.href = "https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap";
-        preconnect.rel = 'stylesheet'
+        }).catch(function (error) {
+            console.log('Failed to load font: ' + error)
+        })
 
         getEle.insertAdjacentElement("afterend", main);
         getEle.remove()
@@ -237,4 +230,6 @@ window.addEventListener('DOMContentLoaded', async (event) => {
     }
 
 
-});
+}
+
+fetchUrbnups()
