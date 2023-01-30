@@ -1,6 +1,6 @@
 
 
-const css = `
+const urbnupsCss = `
 #urbnups-moments-widget {
     max-width: 1200px;
     margin: 30px auto;
@@ -151,9 +151,9 @@ window.addEventListener('DOMContentLoaded', async (event) => {
     var styleNode = document.createElement('style');
     styleNode.type = "text/css";
     if (!!(window.attachEvent && !window.opera)) {
-        styleNode.styleSheet.cssText = css;
+        styleNode.styleSheet.cssText = urbnupsCss;
     } else {
-        var styleText = document.createTextNode(css);
+        var styleText = document.createTextNode(urbnupsCss);
         styleNode.appendChild(styleText);
     }
     document.getElementsByTagName('head')[0].appendChild(styleNode);
